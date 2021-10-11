@@ -58,6 +58,7 @@
 		- Beispiel **Methodenklasse** :Entwickeln von Lösungen
 		- Beispiel **Ziel des Methodeneinsatzes**: Ideen entwickeln
 		- {{query (and [[ideenentwickeln]] [[EntwickelnvonLösungsideen]] )}}
+		  query-table:: false
 	- Methode 2
 		- Einfach auf die Tags unter der Methodenklasse klicken
 		- Alle zugehörige Seite im Block "Linked Reference" aufgelistet
