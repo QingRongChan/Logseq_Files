@@ -1,0 +1,3 @@
+- #Teilfunktion_1
+- #Teilfunktion_2
+- #Teilfunktion_3

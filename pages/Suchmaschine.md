@@ -1,27 +1,24 @@
-- Test Kraft <100N und 2D
-	- query-table:: false
+- Noch in Testphase -> Datomic und Chanpony Query-Funktion
+  collapsed:: true
+	- query-table:: true
+	  query-sort-by:: block
+	  query-sort-desc:: true
 	  #+BEGIN_QUERY
 	  {:title ""
 	   :query [:find (pull ?b [*])
 	           :where [?b :block/marker ?marker]
-	          	      [(contains? #{"2D" "<100N"} ?marker)]]
+	          	      [(contains? #{"TODO"} ?marker)]]
 	   :breadcrumb-show? false
 	   :result-transform (fn [result] (reverse (sort-by (fn [h]) result)))
 	   :collapsed? false}
 	  #+END_QUERY
-- Test Kraft <100N und 3D
-	- #+BEGIN_QUERY
-	  {:title ""
-	   :query [:find (pull ?b [*])
-	           :where [?b :block/marker ?marker]
-	          	      [(contains? #{"3D" "<100N"} ?marker)]]
-	   :breadcrumb-show? false
-	   :result-transform (fn [result] (reverse (sort-by (fn [h]) result)))
-	   :collapsed? false}
-	  #+END_QUERY
-- [[Teilfunktion 1]]
-- [[Teilfunktion 2]]
-- [[Form]]
-- [[Lastfall]]
-- [[Wirkprinzipien]]
+	-
+	-
+- {{query  (property tl TL4) (property form 3D)}}
+  query-table:: false
+-
+-
+-
+-
+-
 -
