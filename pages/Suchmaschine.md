@@ -17,12 +17,15 @@
 		-
 		-
 - Option 2-> Standalone Query
-	- {{query  (and [[TL2]] [[Technology Readiness Level]] )}}
+	- | W4 | W3 | W2 | W1 | 
+	  |--------|-------|---|---|
+	  | Materialkomplexität | Konstruktive Freiheiten | Genutzte AM-Freiheiten| Ausgleichsbewegung| 
+	  | ... | TL4 | TRL |  |
+	- {{query  (and [[W2_Technology Readiness Level]][[TL4]])and([[W3_Konstruktive Freiheiten]] [[W4_Materialkomplexität]] )and([[W4_Materialkomplexität]] [[Kombination von unterschiedlichen Materialien , Hart-Weich Kombination]] )}}
 	  query-table:: true
 	-
 	-
 - Option 3-> Tabelle Query
-  collapsed:: true
 	- query-table:: false
 	  | [[Teilfunktionen]] | [[Form]] | [[Lastfall]] | [[Dummy_Kriterium1]] | [[Dummy_kriterium2]] | [[Wirkprinzipien]] |
 	  |--------|-------|---|---|---|---|
