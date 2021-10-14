@@ -1,3 +1,0 @@
-- [[Genutzte Freiheiten der AM]]
-- [[Fertigungsverfahren]]
-- [[Quelle]]

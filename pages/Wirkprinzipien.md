@@ -1,13 +1,13 @@
-- **[[Wirkprinzipien 2]]**
-- **[[Kraft speichern]]**
-- **[[Formänderung durch Volumenänderungen von Druckkammern]]**
+- **[[W1_Wirkprinzipien 2]]**
+- **[[W1_Kraft speichern]]**
+- **[[W1_Formänderung durch Volumenänderungen von Druckkammern]]**
 - **[[Ausgleichsbewegung(compliant mechanismus)]]**
-- **[[Positionierung von Körpern um die drei Raumachsen mittels drei rotatorische Bewegungen]]**
-- **[[Bewegungsablauf in einer Ebene kopieren]]**
-- **[[Oberflächenformänderungen unter Krafteinleitung von einer panarenstrukturn zu einer Teilkugelform]]**
-- **[[Änderung der Bauteilform durch seitwärtige Bewegung]]**
-- **[[Bewegung in zwei diskreten Zustände,Bistabiles System]]**
-- **[[Erwärmen von Oberflächen,Strukturen]]**
+- **[[W1_Positionierung von Körpern um die drei Raumachsen mittels drei rotatorische Bewegungen]]**
+- **[[W1_Bewegungsablauf in einer Ebene kopieren]]**
+- **[[W1_Oberflächenformänderungen unter Krafteinleitung von einer panarenstrukturn zu einer Teilkugelform]]**
+- **[[W1_Änderung der Bauteilform durch seitwärtige Bewegung]]**
+- **[[W1_Bewegung in zwei diskreten Zustände,Bistabiles System]]**
+- **[[W1_Erwärmen von Oberflächen,Strukturen]]**
 -
 -
 -

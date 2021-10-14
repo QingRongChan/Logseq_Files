@@ -1,2 +1,0 @@
-- [[Genutzte Freiheiten der AM]]
-- [[Quelle]]

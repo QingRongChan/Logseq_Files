@@ -1,10 +1,6 @@
-- [[W4_Materialkomplexität]]
+- [[W3_Konstruktive Freiheiten]]
 	- #[[Formänderung durch Volumenänderungen von Druckkammern]]
 	- #[[Ausgleichsbewegung(compliant mechanismus)]]
 	- #[[W1_Positionierung von Körpern um die drei Raumachsen mittels drei rotatorische Bewegungen]]
-- [[W4_Formkomplexität]]
-	- #[[Formänderung durch Volumenänderungen von Druckkammern]]
-	- #[[W1_Positionierung von Körpern um die drei Raumachsen mittels drei rotatorische Bewegungen]]
 	- #[[W1_Bewegung in zwei diskreten Zustände,Bistabiles System]]
 	- #[[W1_Erwärmen von Oberflächen,Strukturen]]
-	-
