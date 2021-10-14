@@ -1,0 +1,10 @@
+- [[Materialkomplexität]]
+	- #[[Formänderung durch Volumenänderungen von Druckkammern]]
+	- #[[Ausgleichsbewegung(compliant mechanismus)]]
+	- #[[Positionierung von Körpern um die drei Raumachsen mittels drei rotatorische Bewegungen]]
+- [[Formkomplexität]]
+	- #[[Formänderung durch Volumenänderungen von Druckkammern]]
+	- #[[Positionierung von Körpern um die drei Raumachsen mittels drei rotatorische Bewegungen]]
+	- #[[Bewegung in zwei diskreten Zustände,Bistabiles System]]
+	- #[[Erwärmen von Oberflächen,Strukturen]]
+	-

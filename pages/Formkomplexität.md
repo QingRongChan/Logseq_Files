@@ -1,0 +1,7 @@
+- Gedruckte Gewinde
+	- #[[Formänderung durch Volumenänderungen von Druckkammern]]
+- Festkörpergelenke
+	- #Formkomplexität
+- Deformation in linearelastischen Bereich
+	- #[[Bewegung in zwei diskreten Zustände,Bistabiles System]]
+	- #[[Erwärmen von Oberflächen,Strukturen]]
