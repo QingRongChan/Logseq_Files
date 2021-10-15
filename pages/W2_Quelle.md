@@ -19,4 +19,4 @@
 - Design of additively manufactured heat-generating structures
   wirkprinzipien:: [[W1_Erwärmen von Oberflächen,Strukturen]]
 - Characterization of Electrical Heating Performance of CFDM 3D-Printed Graphene/Polylactic Acid (PLA) Horseshoe Pattern with Different 3D Printing Directions
-	- #[[W1_Erwärmen von Oberflächen,Strukturen]]
+  wirkprinzipien:: [[W1_Erwärmen von Oberflächen,Strukturen]]

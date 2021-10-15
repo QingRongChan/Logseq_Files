@@ -17,7 +17,8 @@
 		-
 		-
 - Option 2-> Standalone Query
-	- | W4 | W3 | W2 | W1 | 
+	-
+	  | W4 | W3 | W2 | W1 | 
 	  |--------|-------|---|---|
 	  | Materialkomplexität | Konstruktive Freiheiten | Genutzte AM-Freiheiten| Ausgleichsbewegung| 
 	  | ... | TL4 | TRL |  |
@@ -26,7 +27,7 @@
 		  query-table:: true
 	-
 	- Query mit mehrere Stufen
-		-
+		- {{query and()}}
 - Option 3-> Tabelle Query
 	- query-table:: false
 	  | [[Teilfunktionen]] | [[Form]] | [[Lastfall]] | [[Dummy_Kriterium1]] | [[Dummy_kriterium2]] | [[Wirkprinzipien]] |
