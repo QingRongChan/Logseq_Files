@@ -7,5 +7,6 @@ Level3:: #level3
 	- #level2
 		- #level3
 -
-- {{query (and [[Level1]] [[level3]] )}}
+- {{query (and [[Level1]] [[level3]] )}} 
+  query-table:: false
 -
