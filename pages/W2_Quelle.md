@@ -3,7 +3,7 @@
 - Compliant Morphing Wing
   Wirkprinzipien:: [[W1_Ausgleichsbewegung(compliant mechanismus)]]
 - A New Concept Compliant Platform with Spatial Mobility and Remote Actuation
-	- #[[W1_Positionierung von Körpern um die drei Raumachsen mittels drei rotatorische Bewegungen]]
+  Wirkprinzipien:: [[W1_Positionierung von Körpern um die drei Raumachsen mittels drei rotatorische Bewegungen]]
 - [Auxetic Structure](https://www.youtube.com/watch?v=XP5Fk-lHvK0&ab_channel=MITMediaLab)
 	- #[[W1_Bewegungsablauf in einer Ebene kopieren]]
 - [Auxetic Structure 2](https://www.thingiverse.com/thing:881094)
