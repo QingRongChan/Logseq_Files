@@ -11,9 +11,9 @@
 - [Festo-Didactic](https://www.festo-didactic.com/de-de/lernsysteme/technik-fuer-allgemeinbildende-schulen/fin-ray-bastelbogen.htm?fbid=ZGUuZGUuNTQ0LjEzLjE4LjE0MDMuODUyOA)
   wirkprinzipien:: [[W1_Änderung der Bauteilform durch seitwärtige Bewegung]]
 - [Thingsverse](https://www.thingiverse.com/thing:1487390)
-  wirk
-	- #[[W1_Änderung der Bauteilform durch seitwärtige Bewegung]]
+  wirkprinzipien:: [[W1_Änderung der Bauteilform durch seitwärtige Bewegung]]
 - 3D printing of twisting and rotational bistable structures with tuning elements
+  wirkprinzipien::
 	- #[[W1_Bewegung in zwei diskreten Zustände,Bistabiles System]]
 - Characterizing the Electrical Properties of Anisotropic, 3D-Printed Conductive Sheets for Sensor Applications
 	- #[[W1_Erwärmen von Oberflächen,Strukturen]]
