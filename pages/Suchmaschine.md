@@ -27,7 +27,7 @@
 		  query-table:: true
 	-
 	- Query mit mehrere Stufen
-		- {{query and()}}
+		- {{query and( /link )}}
 - Option 3-> Tabelle Query
 	- query-table:: false
 	  | [[Teilfunktionen]] | [[Form]] | [[Lastfall]] | [[Dummy_Kriterium1]] | [[Dummy_kriterium2]] | [[Wirkprinzipien]] |
