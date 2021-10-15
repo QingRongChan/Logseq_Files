@@ -27,9 +27,9 @@
 	- Query  mit nur einer Stufe
 	  collapsed:: true
 		- {{query  (and [[W2_Technology Readiness Level]][[TL5]])}}
-		  query-table:: true
+		  query-table:: false
 	- Query mit mehrere Stufen
-		- {{query and( /link )}}
+		- {{query and(  )}}
 		  query-table:: true
 - Option 3-> Tabelle Query
 	- query-table:: false
