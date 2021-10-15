@@ -1,4 +1,5 @@
 - Poisson Induced Bending Actuator for Soft Robotic System
+  Wirkprinzipien::
 	- #[[W1_Ausgleichsbewegung(compliant mechanismus)]]
 - Compliant Morphing Wing
 	- #[[W1_Ausgleichsbewegung(compliant mechanismus)]]
