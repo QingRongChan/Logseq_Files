@@ -17,7 +17,7 @@
 	- [[Wirkprinzipien 1]]
 	  Definition:: 
 	  template:: Wirkprinzip_Template
-	  Technology_Readiness_Level:: 
+	  Technology_Readiness_Level:: #TL1
 	  Lösende_Teilfunktion::
 	  Generelle_Beschreibung::
 	  Physikalischer_Grundprinzip::

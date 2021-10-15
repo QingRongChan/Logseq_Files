@@ -1,6 +1,6 @@
 - [[W3_Konstruktive Freiheiten]]
-	- #[[Formänderung durch Volumenänderungen von Druckkammern]]
-	- #[[Ausgleichsbewegung(compliant mechanismus)]]
+	- #[[W1_Formänderung durch Volumenänderungen von Druckkammern]]
+	- #[[W1_Ausgleichsbewegung(compliant mechanismus)]]
 	- #[[W1_Positionierung von Körpern um die drei Raumachsen mittels drei rotatorische Bewegungen]]
 	- #[[W1_Bewegung in zwei diskreten Zustände,Bistabiles System]]
 	- #[[W1_Erwärmen von Oberflächen,Strukturen]]

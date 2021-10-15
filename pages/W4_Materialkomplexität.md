@@ -1,5 +1,7 @@
-- [[Kombination von unterschiedlichen Materialien , Hart-Weich Kombination]]
+- [[W5_Kombination von unterschiedlichen Materialien , Hart-Weich Kombination]]
 	- #[[W1_Formänderung durch Volumenänderungen von Druckkammern]]
 	- #[[W1_Positionierung von Körpern um die drei Raumachsen mittels drei rotatorische Bewegungen]]
-- Material wird im linearelastischen Bereich deformiert
+- [[W5_Material wird im linearelastischen Bereich deformiert]]
 	- #[[W1_Ausgleichsbewegung(compliant mechanismus)]]
+-
+-
