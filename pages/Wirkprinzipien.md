@@ -9,8 +9,6 @@
 - **[[W1_Bewegung in zwei diskreten Zustände,Bistabiles System]]**
 - **[[W1_Erwärmen von Oberflächen,Strukturen]]**
 -
--
--
 - Sample template für Properties basierte Lösung -> Nicht Optimal
   collapsed:: true
 	- Property Links werden nicht in einer unteren Ebene dargestellt-> Somit Darstellung durcheinander
