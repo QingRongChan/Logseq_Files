@@ -28,8 +28,6 @@
 		- {{query  (and [[W2_Technology Readiness Level]][[TL5]])}}
 		  query-table:: false
 	- Query mit mehrere Stufen
-		- {{query (namespace [[TL1]])}}
-		  query-table:: false
 		-
 		-
 		-
