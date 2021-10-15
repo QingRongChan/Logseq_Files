@@ -1,7 +1,7 @@
 - Poisson Induced Bending Actuator for Soft Robotic System
-	- #[[Ausgleichsbewegung(compliant mechanismus)]]
+	- #[[W1_Ausgleichsbewegung(compliant mechanismus)]]
 - Compliant Morphing Wing
-	- #[[Ausgleichsbewegung(compliant mechanismus)]]
+	- #[[W1_Ausgleichsbewegung(compliant mechanismus)]]
 - A New Concept Compliant Platform with Spatial Mobility and Remote Actuation
 	- #[[W1_Positionierung von Körpern um die drei Raumachsen mittels drei rotatorische Bewegungen]]
 - [Auxetic Structure](https://www.youtube.com/watch?v=XP5Fk-lHvK0&ab_channel=MITMediaLab)
