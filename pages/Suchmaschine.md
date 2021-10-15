@@ -17,11 +17,12 @@
 		-
 		-
 - Option 2-> Standalone Query
-	-
-	  | W4 | W3 | W2 | W1 | 
-	  |--------|-------|---|---|
-	  | Materialkomplexität | Konstruktive Freiheiten | Genutzte AM-Freiheiten| Ausgleichsbewegung| 
-	  | ... | TL4 | TRL |  |
+	- Table structure
+		-
+		  | W4 | W3 | W2 | W1 | 
+		  |--------|-------|---|---|
+		  | Materialkomplexität | Konstruktive Freiheiten | Genutzte AM-Freiheiten| Ausgleichsbewegung| 
+		  | ... | TL4 | TRL |  |
 	- Query  mit nur einer Stufe
 		- {{query  (and [[W2_Technology Readiness Level]][[TL5]])}}
 		  query-table:: true
@@ -30,6 +31,7 @@
 		- {{query and( /link )}}
 - Option 3-> Tabelle Query
 	- query-table:: false
+	  collapsed:: true
 	  | [[Teilfunktionen]] | [[Form]] | [[Lastfall]] | [[Dummy_Kriterium1]] | [[Dummy_kriterium2]] | [[Wirkprinzipien]] |
 	  |--------|-------|---|---|---|---|
 	  | #Teilfunktion_1 | #2D | #>50N| #DK1_1| #DK2_2 | {{query  (property tl TL4) (property form 3D)}} |
