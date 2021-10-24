@@ -46,4 +46,4 @@
 -
 - Take 2
 	- Trying out Query in org mode
-		- Try to include a
+		- Try to include a standout-block using org mdoe in write down editor
