@@ -1,3 +1,4 @@
+- Try 1
 - Option 1-> Datomic
   collapsed:: true
 	- Noch in Testphase -> Datomic und Chanpony Query-Funktion
@@ -17,6 +18,7 @@
 		-
 		-
 - Option 2-> Standalone Query
+  collapsed:: true
 	- Table structure
 	  collapsed:: true
 		- | W4 | W3 | W2 | W1 | 
@@ -34,13 +36,13 @@
 		-
 		-
 - Option 3-> Tabelle Query
+  collapsed:: true
 	- query-table:: false
 	  collapsed:: true
 	  | [[Teilfunktionen]] | [[Form]] | [[Lastfall]] | [[Dummy_Kriterium1]] | [[Dummy_kriterium2]] | [[Wirkprinzipien]] |
 	  |--------|-------|---|---|---|---|
 	  | #Teilfunktion_1 | #2D | #>50N| #DK1_1| #DK2_2 | {{query  (property tl TL4) (property form 3D)}} |
 	  | #Teilfunktion_2 | #3D | #>70N | #DK1_2 | #DK2_3 | t |
--
 -
 -
 -
