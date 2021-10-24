@@ -65,4 +65,3 @@
 	- [[TL10]]
 		- [[W1_Bewegung in zwei diskreten Zustände,Bistabiles System]]
 		- [[W1_Erwärmen von Oberflächen,Strukturen]]
--
