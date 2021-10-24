@@ -45,4 +45,5 @@
 		  | #Teilfunktion_2 | #3D | #>70N | #DK1_2 | #DK2_3 | t |
 -
 - Take 2
-	-
+	- Trying out Query in org mode
+	- /
