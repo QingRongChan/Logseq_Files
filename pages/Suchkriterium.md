@@ -1,5 +1,67 @@
-- [[Form]]
-- [[Lastfall]]
-- [[Dummy_Kriterium1]]
-- [[Dummy_kriterium2]]
+- [[W2_Genutzte Freiheiten der AM]]
+  collapsed:: true
+	- [[W3_Konstruktive Freiheiten]]
+		- [[W4_Materialkomplexität]]
+			- [[W5_Kombination von unterschiedlichen Materialien , Hart-Weich Kombination]]
+				- [[W1_Formänderung durch Volumenänderungen von Druckkammern]]
+				- [[W1_Positionierung von Körpern um die drei Raumachsen mittels drei rotatorische Bewegungen]]
+			- [[W5_Material wird im linearelastischen Bereich deformiert]]
+				- [[W1_Ausgleichsbewegung(compliant mechanismus)]]
+		- [[W4_Formkomplexität]]
+			- Gedruckte Gewinde
+				- [[W1_Formänderung durch Volumenänderungen von Druckkammern]]
+			- Festkörpergelenke
+				- [[W1_Positionierung von Körpern um die drei Raumachsen mittels drei rotatorische Bewegungen]]
+			- Deformation in linearelastischen Bereich
+				- [[W1_Bewegung in zwei diskreten Zustände,Bistabiles System]]
+				- [[W1_Erwärmen von Oberflächen,Strukturen]]
+- [[W2_Quelle]]
+  collapsed:: true
+	- Poisson Induced Bending Actuator for Soft Robotic System
+		- [[W1_Ausgleichsbewegung(compliant mechanismus)]]
+	- Compliant Morphing Wing
+		- [[W1_Ausgleichsbewegung(compliant mechanismus)]]
+	- A New Concept Compliant Platform with Spatial Mobility and Remote Actuation
+		- [[W1_Positionierung von Körpern um die drei Raumachsen mittels drei rotatorische Bewegungen]]
+	- [Auxetic Structure](https://www.youtube.com/watch?v=XP5Fk-lHvK0&ab_channel=MITMediaLab)
+		- [[W1_Bewegungsablauf in einer Ebene kopieren]]
+	- [Auxetic Structure 2](https://www.thingiverse.com/thing:881094)
+		- [[W1_Oberflächenformänderungen unter Krafteinleitung von einer panarenstrukturn zu einer Teilkugelform]]
+	- [Festo-Didactic](https://www.festo-didactic.com/de-de/lernsysteme/technik-fuer-allgemeinbildende-schulen/fin-ray-bastelbogen.htm?fbid=ZGUuZGUuNTQ0LjEzLjE4LjE0MDMuODUyOA)
+		- [[W1_Änderung der Bauteilform durch seitwärtige Bewegung]]
+	- [Thingsverse](https://www.thingiverse.com/thing:1487390)
+		- [[W1_Änderung der Bauteilform durch seitwärtige Bewegung]]
+	- 3D printing of twisting and rotational bistable structures with tuning elements
+		- [[W1_Bewegung in zwei diskreten Zustände,Bistabiles System]]
+	- Characterizing the Electrical Properties of Anisotropic, 3D-Printed Conductive Sheets for Sensor Applications
+		- [[W1_Erwärmen von Oberflächen,Strukturen]]
+	- Design of additively manufactured heat-generating structures
+		- [[W1_Erwärmen von Oberflächen,Strukturen]]
+	- Characterization of Electrical Heating Performance of CFDM 3D-Printed Graphene/Polylactic Acid (PLA) Horseshoe Pattern with Different 3D Printing Directions
+		- [[W1_Erwärmen von Oberflächen,Strukturen]]
+- [[W2_Fertigungsverfahren]]
+  collapsed:: true
+	- FDM möglich
+		- [[W1_Ausgleichsbewegung(compliant mechanismus)]]
 - [[W2_Technology Readiness Level]]
+  collapsed:: true
+	- [[TL1]]
+		- [[W1_Wirkprinzipien 2]]
+	- [[TL2]]
+		- [[W1_Kraft speichern]]
+	- [[TL3]]
+		- [[W1_Formänderung durch Volumenänderungen von Druckkammern]]
+	- [[TL4]]
+		- [[W1_Ausgleichsbewegung(compliant mechanismus)]]
+	- [[TL5]]
+		- [[W1_Positionierung von Körpern um die drei Raumachsen mittels drei rotatorische Bewegungen]]
+	- [[TL6]]
+		- [[W1_Bewegungsablauf in einer Ebene kopieren]]
+	- [[TL7]]
+		- [[W1_Oberflächenformänderungen unter Krafteinleitung von einer panarenstrukturn zu einer Teilkugelform]]
+	- [[TL8]]
+		- [[W1_Änderung der Bauteilform durch seitwärtige Bewegung]]
+	- [[TL9]]
+	- [[TL10]]
+		- [[W1_Bewegung in zwei diskreten Zustände,Bistabiles System]]
+		- [[W1_Erwärmen von Oberflächen,Strukturen]]

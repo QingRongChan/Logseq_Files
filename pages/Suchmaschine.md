@@ -28,6 +28,7 @@
 		- {{query  (and [[W2_Technology Readiness Level]][[TL5]])}}
 		  query-table:: false
 	- Query mit mehrere Stufen
+	  collapsed:: true
 		-
 		-
 		-

@@ -10,7 +10,6 @@
 - **[[W1_Erwärmen von Oberflächen,Strukturen]]**
 -
 - Sample template für Properties basierte Lösung -> Nicht Optimal
-	- Property Links werden nicht in einer unteren Ebene dargestellt-> Somit Darstellung durcheinander
 	- [[Wirkprinzipien 1]]
 	  Definition:: 
 	  template:: Wirkprinzip_Template
