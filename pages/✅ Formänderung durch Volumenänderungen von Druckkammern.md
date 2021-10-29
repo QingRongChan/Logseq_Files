@@ -1,2 +1,2 @@
-- Genutzte Freiheiten der AM ::
--
+- Genutzte Freiheiten der AM :: [[W3_Konstruktive Freiheiten]]
+- Konstruktive Freiheiten ::
