@@ -64,7 +64,7 @@
 		- [[✅ Bewegung in zwei diskreten Zustände,Bistabiles System]]
 		- [[✅ Erwärmen von Oberflächen,Strukturen]]
 -
-- Test query
+- ==Test query==
 - {{query (and (property materialkomplexität [[W5_Kombination von unterschiedlichen Materialien , Hart-Weich Kombination]]) (property konstruktive-freiheiten [[W4_Materialkomplexität]]) )}}
   query-table:: false
 -
