@@ -66,7 +66,7 @@
 		- [[✅ Erwärmen von Oberflächen,Strukturen]]
 -
 - Test query
-- {{query and(property genutzte_freiheiten_der_am W3_Konstruktive Freiheiten)}}
+- {{query and(property Genutzte_Freiheiten_der_AM W3_Konstruktive Freiheiten)}}
   query-table:: false
 -
 -
