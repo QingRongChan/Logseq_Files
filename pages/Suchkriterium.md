@@ -16,7 +16,6 @@
 				- [[✅ Bewegung in zwei diskreten Zustände,Bistabiles System]]
 				- [[✅ Erwärmen von Oberflächen,Strukturen]]
 - [[W2_Quelle]]
-  collapsed:: true
 	- Poisson Induced Bending Actuator for Soft Robotic System
 		- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
 	- Compliant Morphing Wing
@@ -44,6 +43,7 @@
 	- FDM möglich
 		- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
 - [[W2_Technology Readiness Level]]
+  collapsed:: true
 	- [[TL1]]
 		- [[✅ Wirkprinzipien 2]]
 	- [[TL2]]
@@ -64,12 +64,4 @@
 	- [[TL10]]
 		- [[✅ Bewegung in zwei diskreten Zustände,Bistabiles System]]
 		- [[✅ Erwärmen von Oberflächen,Strukturen]]
--
-- ==Test query==
-- {{query (and (property materialkomplexität [[W5_Kombination von unterschiedlichen Materialien , Hart-Weich Kombination]]) (property konstruktive-freiheiten [[W4_Materialkomplexität]]) )}}
-  query-table:: false
--
--
-- {{query (and (property materialkomplexität [[W5_Kombination von unterschiedlichen Materialien , Hart-Weich Kombination]]) (property trl [[TL5]]) (property konstruktive-freiheiten [[W4_Materialkomplexität]]) )}}
--
 -
