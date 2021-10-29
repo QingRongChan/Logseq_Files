@@ -1,2 +1,3 @@
 - Genutzte Freiheiten der AM :: [[W3_Konstruktive Freiheiten]]
-- Konstruktive Freiheiten ::
+- Konstruktive Freiheiten :: [[W4_Materialkomplexität]]
+- Materialkomplexi
