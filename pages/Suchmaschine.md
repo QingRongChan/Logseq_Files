@@ -66,4 +66,4 @@
 		- "{{query and( (property key value) (property key value) (property key value) (property key value) )}}"
 	- Regel für die Eingabe in Query Funktion
 		- Eingegebene Property's Schlüssel muss dem dargestellten Schlüssel entsprechen
-		- Link
+		- Link zu einer Seite muss nicht als Link in Query Funktion eingegeben werden
