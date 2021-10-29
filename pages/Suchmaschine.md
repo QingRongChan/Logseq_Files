@@ -1,4 +1,5 @@
 - Take 1
+  collapsed:: true
 	- Option 1-> Datomic
 	  collapsed:: true
 		- Noch in Testphase -> Datomic und Chanpony Query-Funktion
@@ -41,7 +42,6 @@
 		  |--------|-------|---|---|---|---|
 		  | #Teilfunktion_1 | #2D | #>50N| #DK1_1| #DK2_2 | {{query  (property tl TL4) (property form 3D)}} |
 		  | #Teilfunktion_2 | #3D | #>70N | #DK1_2 | #DK2_3 | t |
--
 - Take 2
   collapsed:: true
 	- Trying out Query in org mode
