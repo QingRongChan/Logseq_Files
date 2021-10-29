@@ -1,2 +1,2 @@
-- Genutzte Freiheiten der AM :: 1
+-
 -
