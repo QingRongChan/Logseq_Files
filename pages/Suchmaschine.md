@@ -51,8 +51,8 @@
 	  query-table:: false
 	- {{query (and (property konstruktive-freiheiten W4_Materialkomplexität ) (property materialkomplexität W5_Material wird im linearelastischen Bereich deformiert) (property fertigungsverfahren FDM möglich) (property trl TL4) )}}
 	-
-	-
-- Take 4 ==Query template page== Status: ❗
+- Take 4 ==Query Regel== Status: ✅
+  collapsed:: true
 	- Derzeitige properties der jeweiligen Seite der Wirkprinzipien
 		- genutzte-freiheiten-der-am
 		- konstruktive-freiheiten
