@@ -2,15 +2,15 @@
 	- [[W3_Konstruktive Freiheiten]]
 		- [[W4_Materialkomplexität]]
 			- [[W5_Kombination von unterschiedlichen Materialien , Hart-Weich Kombination]]
-				- [[✅Formänderung durch Volumenänderungen von Druckkammern]]
-				- [[W1_Positionierung von Körpern um die drei Raumachsen mittels drei rotatorische Bewegungen]]
+				- [[✅ Formänderung durch Volumenänderungen von Druckkammern]]
+				- [[✅ Positionierung von Körpern um die drei Raumachsen mittels drei rotatorische Bewegungen]]
 			- [[W5_Material wird im linearelastischen Bereich deformiert]]
-				- [[W1_Ausgleichsbewegung(compliant mechanismus)]]
+				- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
 		- [[W4_Formkomplexität]]
 			- Gedruckte Gewinde
-				- [[W1_Formänderung durch Volumenänderungen von Druckkammern]]
+				- [[✅ Formänderung durch Volumenänderungen von Druckkammern]]
 			- Festkörpergelenke
-				- [[W1_Positionierung von Körpern um die drei Raumachsen mittels drei rotatorische Bewegungen]]
+				- [[✅ Positionierung von Körpern um die drei Raumachsen mittels drei rotatorische Bewegungen]]
 			- Deformation in linearelastischen Bereich
 				- [[W1_Bewegung in zwei diskreten Zustände,Bistabiles System]]
 				- [[W1_Erwärmen von Oberflächen,Strukturen]]
