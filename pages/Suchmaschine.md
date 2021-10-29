@@ -53,7 +53,7 @@
 	-
 	-
 - Take 4 ==Query template page== Status: ❗
-	- properties der jeweiligen Seite der Wirkprinzipien
+	- Derzeitige properties der jeweiligen Seite der Wirkprinzipien
 		- genutzte-freiheiten-der-am
 		- konstruktive-freiheiten
 		- materialkomplexität
@@ -67,3 +67,4 @@
 	- Regel für die Eingabe in Query Funktion
 		- Eingegebene Property's Schlüssel muss dem dargestellten Schlüssel entsprechen
 		- Link zu einer Seite muss nicht als Link in Query Funktion eingegeben werden
+		-
