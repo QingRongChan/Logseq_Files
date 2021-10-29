@@ -25,7 +25,7 @@
 			  | Materialkomplexität | Konstruktive Freiheiten | Genutzte AM-Freiheiten| Ausgleichsbewegung| 
 			  | ... | TL4 | TRL |  |
 		- Query  mit nur einer Stufe
-			- {{query  (and [[W2_Technology Readiness Level]][[TL5]])}}
+			- {{query  (and W2_Technology Readiness Level TL5)}}
 			  query-table:: true
 		- Query mit mehrere Stufen
 		  collapsed:: true
