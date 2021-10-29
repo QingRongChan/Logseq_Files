@@ -18,4 +18,4 @@
 		- {{query (and (property konstruktive-freiheiten W4_Materialkomplexität ) (property materialkomplexität W5_Material wird im linearelastischen Bereich deformiert) (property fertigungsverfahren FDM möglich) (property trl TL4) )}}
 		  query-table:: false
 -
-- How to do a list of all possible
+- How to do a list of all possible Einträge for a property -> need to compete with methodos IK
