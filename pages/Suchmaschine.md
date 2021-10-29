@@ -55,4 +55,8 @@
 	-
 - Take 4 ==Query template page== Status: ❗
 	- properties
+		- genutzte-freiheiten-der-am
+		- konstruktive-freiheiten
+		- materialkomplexität
+		- formkomplexität
 		-
