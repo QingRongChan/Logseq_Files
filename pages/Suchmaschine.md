@@ -63,4 +63,5 @@
 		- quelle
 		- fertigungsverfahren
 	- Format für Query-Funktion
+		- starten mit "/query"
 		-
