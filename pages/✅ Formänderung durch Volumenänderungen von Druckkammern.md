@@ -1,5 +1,8 @@
-- Genutzte_Freiheiten_der_AM :: [[W3_Konstruktive Freiheiten]]
-- Konstruktive Freiheiten :: [[W4_Materialkomplexität]]
-- Materialkomplexität :: [[W5_Kombination von unterschiedlichen Materialien , Hart-Weich Kombination]]
-- Technology Readiness Level :: [[TL3]]
+Genutzte_Freiheiten_der_AM:: [[W3_Konstruktive Freiheiten]]
+
+-
+  Konstruktive_Freiheiten:: [[W4_Materialkomplexität]]
+-
+  Materialkomplexität:: [[W5_Kombination von unterschiedlichen Materialien , Hart-Weich Kombination]]
+- Technology Readiness Level:: [[TL3]]
 -
