@@ -66,7 +66,7 @@
 		- [[✅ Erwärmen von Oberflächen,Strukturen]]
 -
 - Test query
-- {{query (property Genutzte-Freiheiten-der-AM [[W3_Konstruktive Freiheiten]] )}}
+- {{query (property materialkomplexität [[W5_Kombination von unterschiedlichen Materialien , Hart-Weich Kombination]] )}}
   query-table:: true
 -
 -
