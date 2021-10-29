@@ -54,7 +54,7 @@
 	-
 	-
 - Take 4 ==Query template page== Status: ❗
-	- properties
+	- properties der jeweiligen Seite der Wirkprinzipien
 		- genutzte-freiheiten-der-am
 		- konstruktive-freiheiten
 		- materialkomplexität
@@ -62,3 +62,5 @@
 		- trl
 		- quelle
 		- fertigungsverfahren
+	- Format für Query-Funktion
+		-
