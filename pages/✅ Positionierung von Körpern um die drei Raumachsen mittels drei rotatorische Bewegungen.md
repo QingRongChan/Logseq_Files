@@ -3,4 +3,4 @@ Konstruktive_Freiheiten:: [[W4_Materialkomplexität]] [[W4_Formkomplexität]]
 Materialkomplexität:: [[W5_Kombination von unterschiedlichen Materialien , Hart-Weich Kombination]]
 Formkomplexität:: Festkörpergelenke
 TRL:: [[TL5]]
-Quelle::
+Quelle:: A New Concept Compliant Platform with Spatial Mobility and Remote Actuation
