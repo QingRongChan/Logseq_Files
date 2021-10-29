@@ -8,6 +8,7 @@
 		- {{query (and (property konstruktive-freiheiten [[W4_Materialkomplexität]]) (property materialkomplexität [[W5_Kombination von unterschiedlichen Materialien , Hart-Weich Kombination]]) (property formkomplexität Gedruckte Gewinde) (property trl TL3) )}}
 		  query-table:: false
 -
+  background-color:: #533e7d
   2. Zu suchende Wirkprinzipien hat folgende Eigenschaften:
 	- Genutzte Freiheiten der AM -> Konstruktive Freiheiten -> Materialkomplexität -> Material wird im linearelastischen Bereich deformiert
 	- Fertigungsverfahren -> FDM möglich
