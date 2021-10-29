@@ -65,7 +65,7 @@
 		- [[✅ Erwärmen von Oberflächen,Strukturen]]
 -
 - Test query
-- {{query (property materialkomplexität [[W5_Kombination von unterschiedlichen Materialien , Hart-Weich Kombination]] )}}
+- {{query and (property materialkomplexität [[W5_Kombination von unterschiedlichen Materialien , Hart-Weich Kombination]])(property )}}
   query-table:: false
 -
 -
