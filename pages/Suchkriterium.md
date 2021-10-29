@@ -44,6 +44,7 @@
 	- FDM möglich
 		- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
 - [[W2_Technology Readiness Level]]
+  collapsed:: true
 	- [[TL1]]
 		- [[✅ Wirkprinzipien 2]]
 	- [[TL2]]
