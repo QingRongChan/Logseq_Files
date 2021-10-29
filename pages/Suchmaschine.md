@@ -54,3 +54,5 @@
 	-
 	-
 - Take 4 ==Query template page== Status: ❗
+	- properties
+		-
