@@ -51,18 +51,4 @@
 	- ==Test query==
 	- {{query (and (property materialkomplexität [[W5_Kombination von unterschiedlichen Materialien , Hart-Weich Kombination]]) (property konstruktive-freiheiten [[W4_Materialkomplexität]]) )}}
 	  query-table:: false
-	-
-	  Genutzte_Freiheiten_der_AM:: [[W3_Konstruktive Freiheiten]]
-	  Konstruktive_Freiheiten:: [[W4_Materialkomplexität]] [[W4_Formkomplexität]] 
-	  Materialkomplexität:: [[W5_Kombination von unterschiedlichen Materialien , Hart-Weich Kombination]]
-	  Formkomplexität::  Gedruckte Gewinde
-	  trl:: [[TL3]]
-	-
-	  Genutzte_Freiheiten_der_AM:: [[W3_Konstruktive Freiheiten]]
-	  Konstruktive_Freiheiten:: [[W4_Materialkomplexität]] [[W4_Formkomplexität]] 
-	  Materialkomplexität:: [[W5_Kombination von unterschiedlichen Materialien , Hart-Weich Kombination]]
-	  Formkomplexität:: Festkörpergelenke
-	  TRL:: [[TL5]]
-	-
-	-
 	- {{query (and (property materialkomplexität [[W5_Kombination von unterschiedlichen Materialien , Hart-Weich Kombination]]) (property trl [[TL5]]) (property konstruktive-freiheiten [[W4_Materialkomplexität]]) )}}
