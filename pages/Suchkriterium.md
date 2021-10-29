@@ -66,4 +66,4 @@
 		- [[✅ Erwärmen von Oberflächen,Strukturen]]
 -
 - Test query
-- {{query and([[W3_Konstruktive Freiheiten]][[]][[]][[]])}}
+- {{query and([[W3_Konstruktive Freiheiten]][[W4_Materialkomplexität]][[W5_Kombination von unterschiedlichen Materialien , Hart-Weich Kombination]][[]])}}
