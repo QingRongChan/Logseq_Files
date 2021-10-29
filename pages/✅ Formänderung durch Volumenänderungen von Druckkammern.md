@@ -1,3 +1,3 @@
 - Genutzte Freiheiten der AM :: [[W3_Konstruktive Freiheiten]]
 - Konstruktive Freiheiten :: [[W4_Materialkomplexität]]
-- Materialkomplexi
+- Materialkomplexität :: [[W5_Kombination von unterschiedlichen Materialien , Hart-Weich Kombination]]
