@@ -59,4 +59,6 @@
 		- konstruktive-freiheiten
 		- materialkomplexität
 		- formkomplexität
-		-
+		- trl
+		- quelle
+		- fertigungsverfahren
