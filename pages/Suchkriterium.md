@@ -12,16 +12,15 @@
 			- Festkörpergelenke
 				- [[✅ Positionierung von Körpern um die drei Raumachsen mittels drei rotatorische Bewegungen]]
 			- Deformation in linearelastischen Bereich
-				- [[W1_Bewegung in zwei diskreten Zustände,Bistabiles System]]
-				- [[W1_Erwärmen von Oberflächen,Strukturen]]
+				- [[✅ Bewegung in zwei diskreten Zustände,Bistabiles System]]
+				- [[✅ Erwärmen von Oberflächen,Strukturen]]
 - [[W2_Quelle]]
-  collapsed:: true
 	- Poisson Induced Bending Actuator for Soft Robotic System
-		- [[W1_Ausgleichsbewegung(compliant mechanismus)]]
+		- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
 	- Compliant Morphing Wing
-		- [[W1_Ausgleichsbewegung(compliant mechanismus)]]
+		- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
 	- A New Concept Compliant Platform with Spatial Mobility and Remote Actuation
-		- [[W1_Positionierung von Körpern um die drei Raumachsen mittels drei rotatorische Bewegungen]]
+		- [[✅ Positionierung von Körpern um die drei Raumachsen mittels drei rotatorische Bewegungen]]
 	- [Auxetic Structure](https://www.youtube.com/watch?v=XP5Fk-lHvK0&ab_channel=MITMediaLab)
 		- [[W1_Bewegungsablauf in einer Ebene kopieren]]
 	- [Auxetic Structure 2](https://www.thingiverse.com/thing:881094)
