@@ -19,3 +19,4 @@
 		  query-table:: false
 -
 - How to do a list of all possible Einträge for a property -> need to compete with methodos IK
+- Do an embed block and show the list of einträge in
