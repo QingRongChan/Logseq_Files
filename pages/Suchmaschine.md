@@ -63,5 +63,5 @@
 		- quelle
 		- fertigungsverfahren
 	- Format für Query-Funktion
-		- starten mit "/query"
-		- {{query and( (property key value) (property key value) (property key value) (property key value) )}}
+		- starten mit dem Befehl "/query"
+		- "{{query and( (property key value) (property key value) (property key value) (property key value) )}}"
