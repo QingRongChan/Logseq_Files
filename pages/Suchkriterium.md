@@ -69,6 +69,6 @@
   query-table:: false
 -
 -
-- (property trl [[TL3]])
+- {{query (and (property materialkomplexität [[W5_Kombination von unterschiedlichen Materialien , Hart-Weich Kombination]]) (property konstruktive-freiheiten [[W4_Materialkomplexität]]) )}}
 -
 -
