@@ -36,20 +36,19 @@
 	- Design of additively manufactured heat-generating structures
 		- [[✅ Erwärmen von Oberflächen,Strukturen]]
 	- Characterization of Electrical Heating Performance of CFDM 3D-Printed Graphene/Polylactic Acid (PLA) Horseshoe Pattern with Different 3D Printing Directions
-		- [[W1_Erwärmen von Oberflächen,Strukturen]]
+		- [[✅ Erwärmen von Oberflächen,Strukturen]]
 - [[W2_Fertigungsverfahren]]
-  collapsed:: true
 	- FDM möglich
-		- [[W1_Ausgleichsbewegung(compliant mechanismus)]]
+		- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
 - [[W2_Technology Readiness Level]]
 	- [[TL1]]
-		- [[W1_Wirkprinzipien 2]]
+		- [[✅ Wirkprinzipien 2]]
 	- [[TL2]]
-		- [[W1_Kraft speichern]]
+		- [[✅ Kraft speichern]]
 	- [[TL3]]
-		- [[W1_Formänderung durch Volumenänderungen von Druckkammern]]
+		- [[✅ Formänderung durch Volumenänderungen von Druckkammern]]
 	- [[TL4]]
-		- [[W1_Ausgleichsbewegung(compliant mechanismus)]]
+		- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
 	- [[TL5]]
 		- [[W1_Positionierung von Körpern um die drei Raumachsen mittels drei rotatorische Bewegungen]]
 	- [[TL6]]
