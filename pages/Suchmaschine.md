@@ -64,4 +64,4 @@
 		- fertigungsverfahren
 	- Format für Query-Funktion
 		- starten mit "/query"
-		-
+		- {{query and( (property key value) () () )}}
