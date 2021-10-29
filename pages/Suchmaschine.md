@@ -34,6 +34,7 @@
 			-
 			-
 	- Option 3-> Tabelle Query
+	  collapsed:: true
 		- query-table:: false
 		  collapsed:: true
 		  | [[Teilfunktionen]] | [[Form]] | [[Lastfall]] | [[Dummy_Kriterium1]] | [[Dummy_kriterium2]] | [[Wirkprinzipien]] |
@@ -42,5 +43,9 @@
 		  | #Teilfunktion_2 | #3D | #>70N | #DK1_2 | #DK2_3 | t |
 -
 - Take 2
+  collapsed:: true
 	- Trying out Query in org mode
 		- Try to include a standout-block using org mdoe in write down editor
+-
+- Take 3
+-
