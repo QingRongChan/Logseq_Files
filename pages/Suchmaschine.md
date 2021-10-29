@@ -47,7 +47,6 @@
 	- Trying out Query in org mode
 		- Try to include a standout-block using org mdoe in write down editor
 - Take 3 ==Test advance query== Status: ✅
-  collapsed:: true
 	- {{query (and (property konstruktive-freiheiten [[W4_Materialkomplexität]]) (property materialkomplexität [[W5_Kombination von unterschiedlichen Materialien , Hart-Weich Kombination]]) (property formkomplexität Gedruckte Gewinde) (property trl TL3) )}}
 	  query-table:: false
 	- {{query (and (property konstruktive-freiheiten [[W4_Materialkomplexität]] ) (property materialkomplexität [[W5_Material wird im linearelastischen Bereich deformiert]]) (property fertigungsverfahren FDM möglich) (property trl [[TL4]]) )}}
@@ -67,3 +66,4 @@
 		- "{{query and( (property key value) (property key value) (property key value) (property key value) )}}"
 	- Regel für die Eingabe in Query Funktion
 		- Eingegebene Property's Schlüssel muss dem dargestellten Schlüssel entsprechen
+		- Link
