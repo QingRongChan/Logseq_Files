@@ -18,7 +18,6 @@
 			-
 			-
 	- Option 2-> Standalone Query
-	  collapsed:: true
 		- Table structure
 		  collapsed:: true
 			- | W4 | W3 | W2 | W1 | 
@@ -26,7 +25,6 @@
 			  | Materialkomplexität | Konstruktive Freiheiten | Genutzte AM-Freiheiten| Ausgleichsbewegung| 
 			  | ... | TL4 | TRL |  |
 		- Query  mit nur einer Stufe
-		  collapsed:: true
 			- {{query  (and [[W2_Technology Readiness Level]][[TL5]])}}
 			  query-table:: false
 		- Query mit mehrere Stufen
