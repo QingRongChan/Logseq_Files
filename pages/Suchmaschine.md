@@ -34,7 +34,6 @@
 			-
 			-
 	- Option 3-> Tabelle Query
-	  collapsed:: true
 		- query-table:: false
 		  collapsed:: true
 		  | [[Teilfunktionen]] | [[Form]] | [[Lastfall]] | [[Dummy_Kriterium1]] | [[Dummy_kriterium2]] | [[Wirkprinzipien]] |
