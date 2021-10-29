@@ -65,3 +65,5 @@
 	- Format für Query-Funktion
 		- starten mit dem Befehl "/query"
 		- "{{query and( (property key value) (property key value) (property key value) (property key value) )}}"
+	- Regel für die Eingabe in Query Funktion
+		- Eingegebene
