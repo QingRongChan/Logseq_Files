@@ -67,7 +67,7 @@
 -
 - Test query
 - {{query (property materialkomplexität [[W5_Kombination von unterschiedlichen Materialien , Hart-Weich Kombination]] )}}
-  query-table:: true
+  query-table:: false
 -
 -
 -
