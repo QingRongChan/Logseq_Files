@@ -66,4 +66,4 @@
 		- starten mit dem Befehl "/query"
 		- "{{query and( (property key value) (property key value) (property key value) (property key value) )}}"
 	- Regel für die Eingabe in Query Funktion
-		- Eingegebene Property's Key muss dem dargestellten Key entsprechen
+		- Eingegebene Property's Schlüssel muss dem dargestellten Schlüssel entsprechen
