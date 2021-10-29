@@ -50,6 +50,6 @@
 	- ==Test advance query==
 	- {{query (and (property konstruktive-freiheiten [[W4_Materialkomplexität]]) (property materialkomplexität [[W5_Kombination von unterschiedlichen Materialien , Hart-Weich Kombination]]) (property formkomplexität Gedruckte Gewinde) (property trl TL3) )}}
 	  query-table:: false
-	- {{query (and (property konstruktive-freiheiten [[W4_Materialkomplexität]] ) (property materialkomplexität [[W5_Kombination von unterschiedlichen Materialien , Hart-Weich Kombination]]) (property fertigungsverfahren FDM möglich) (property trl [[TL5]]) )}}
+	- {{query (and (property konstruktive-freiheiten [[W4_Materialkomplexität]] ) (property materialkomplexität [[W5_Kombination von unterschiedlichen Materialien , Hart-Weich Kombination]]) (property fertigungsverfahren FDM möglich) (property trl [[TL4]]) )}}
 	-
 	-
