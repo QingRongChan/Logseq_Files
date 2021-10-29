@@ -67,7 +67,7 @@
 -
 - Test query
 - {{query (property Genutzte-Freiheiten-der-AM [[W3_Konstruktive Freiheiten]] )}}
-  query-table:: false
+  query-table:: true
 -
 -
 -
