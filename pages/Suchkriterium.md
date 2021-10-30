@@ -1,12 +1,14 @@
 - [[W2_Genutzte Freiheiten der AM]]
 	- [[W3_Konstruktive Freiheiten]]
 		- [[W4_Materialkomplexität]]
+		  collapsed:: true
 			- [[W5_Kombination von unterschiedlichen Materialien , Hart-Weich Kombination]]
 				- [[✅ Formänderung durch Volumenänderungen von Druckkammern]]
 				- [[✅ Positionierung von Körpern um die drei Raumachsen mittels drei rotatorische Bewegungen]]
 			- [[W5_Material wird im linearelastischen Bereich deformiert]]
 				- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
 		- [[W4_Formkomplexität]]
+		  collapsed:: true
 			- Gedruckte Gewinde
 				- [[✅ Formänderung durch Volumenänderungen von Druckkammern]]
 			- Festkörpergelenke
@@ -15,6 +17,7 @@
 				- [[✅ Bewegung in zwei diskreten Zustände,Bistabiles System]]
 				- [[✅ Erwärmen von Oberflächen,Strukturen]]
 - [[W2_Quelle]]
+  collapsed:: true
 	- Poisson Induced Bending Actuator for Soft Robotic System
 		- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
 	- Compliant Morphing Wing
@@ -39,6 +42,7 @@
 		- [[✅ Erwärmen von Oberflächen,Strukturen]]
 - [[W2_Fertigungsverfahren]]
 	- FDM möglich
+	  collapsed:: true
 		- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
 - [[W2_Technology Readiness Level]]
   collapsed:: true
@@ -62,4 +66,3 @@
 	- [[TL10]]
 		- [[✅ Bewegung in zwei diskreten Zustände,Bistabiles System]]
 		- [[✅ Erwärmen von Oberflächen,Strukturen]]
--
