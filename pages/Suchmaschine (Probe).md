@@ -96,6 +96,8 @@
 			- [Thingsverse](https://www.thingiverse.com/thing:1487390)
 			- 3D printing of twisting and rotational bistable structures with tuning elements
 			- Characterizing the Electrical Properties of Anisotropic, 3D-Printed Conductive Sheets for Sensor Applications
+			- Design of additively manufactured heat-generating structures
+			- Characterization of Electrical Heating Performance of CFDM 3D-Printed Graphene/Polylactic Acid (PLA) Horseshoe Pattern with Different 3D Printing Directions
 		- fertigungsverfahren
 	- W3-Ebene
 		- konstruktive-freiheiten
