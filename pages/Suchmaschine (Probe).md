@@ -77,6 +77,7 @@
 		  collapsed:: true
 			- [[W3_Konstruktive Freiheiten]]
 		- trl
+		  collapsed:: true
 			- [[TL1]]
 			- [[TL2]]
 			- [[TL3]]
