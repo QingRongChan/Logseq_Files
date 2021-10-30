@@ -52,4 +52,5 @@ title:: Suchfunktion : Einträge und Format
 - ==Suchfunktion : Format==
 	- Starten mit dem Befehl "/query"
 	- Auf Enter drücken -> "{{query }}"
-	- Im Klammer, hinter "query" -> Property
+	- Im Klammer, hinter "query" -> zu suchende Wirkprinzipien mithilfe von ihren Eigenschaften finden
+	- Format -> "
