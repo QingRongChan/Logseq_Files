@@ -57,5 +57,5 @@ title:: Suchfunktion : Einträge und Format
 	- Wenn mehr als ein Suchkriterium verwendet wird -> "{{query and ( (property1 key1 value1) (property2 key2 value2) )}}"
 	- Es gibt keine Grenze für die Anzahl der Suchkriterien in der Suchfunktion
 	- Links
-		- Logseq Query-Funktion, Anfänger
+		- Logseq Query-Funktion, Anfängerniveau
 		- Logseq Query-Funktion, Fortgeschritten
