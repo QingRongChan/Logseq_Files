@@ -1,7 +1,6 @@
 title:: Suchfunktion : Einträge und Format
 
--
-  <ins>Liste der möglichen Einträge für die Suchfunktion</ins>
+- ==Liste der möglichen Einträge für die Suchfunktion==
 	-
 	  <ins>W2-Ebene</ins>
 		- genutzte-freiheiten-der-am
@@ -49,3 +48,4 @@ title:: Suchfunktion : Einträge und Format
 			- Gedruckte Gewinde
 			- Festkörpergelenke
 			- Deformation in linearelastischen Bereich
+- ==
