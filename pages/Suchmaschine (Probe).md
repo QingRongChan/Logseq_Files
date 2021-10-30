@@ -70,7 +70,7 @@
 		- Es gibt keine Grenze für die Anzahl der Property keys, die eingegeben werden können
 -
 -
-- Test Query Funktion Property Bezeichnung
+- Liste der möglichen Einträge für die Suchfunktion
 	- W2-Ebene
 		- genutzte-freiheiten-der-am
 			- [[W3_Konstruktive Freiheiten]]
@@ -99,6 +99,7 @@
 			- Design of additively manufactured heat-generating structures
 			- Characterization of Electrical Heating Performance of CFDM 3D-Printed Graphene/Polylactic Acid (PLA) Horseshoe Pattern with Different 3D Printing Directions
 		- fertigungsverfahren
+			- FDM möglich
 	- W3-Ebene
 		- konstruktive-freiheiten
 			- [[W4_Materialkomplexität]]
