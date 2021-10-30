@@ -71,7 +71,8 @@
 -
 -
 - Liste der möglichen Einträge für die Suchfunktion
-	- W2-Ebene
+	-
+	  <ins>W2-Ebene</ins>
 		- genutzte-freiheiten-der-am
 			- [[W3_Konstruktive Freiheiten]]
 		- trl
