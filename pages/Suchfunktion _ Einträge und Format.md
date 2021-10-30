@@ -58,4 +58,5 @@ title:: Suchfunktion : Einträge und Format
 	- Es gibt keine Grenze für die Anzahl der Suchkriterien in der Suchfunktion
 	- Links
 		- Logseq Query-Funktion, Anfängerniveau
+			- @@html: https://logseq.github.io/#/page/queries@@
 		- Logseq Query-Funktion, Fortgeschrittenes Niveau
