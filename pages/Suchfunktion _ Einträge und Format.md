@@ -52,4 +52,4 @@ title:: Suchfunktion : Einträge und Format
 - ==Suchfunktion : Format==
 	- Starten mit dem Befehl "/query"
 	- Auf Enter drücken -> "{{query }}"
-	- Hinter "B"
+	- Im Klammer, hinter "query" -> Property
