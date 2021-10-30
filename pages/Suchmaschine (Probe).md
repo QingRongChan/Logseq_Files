@@ -78,9 +78,11 @@
 		- W4_Formkomplexität
 	- materialkomplexität
 		- W5_Kombination von unterschiedlichen Materialien , Hart-Weich Kombination
-		- W5_Material
+		- W5_Material wird im linearelastischen Bereich deformiert
 	- formkomplexität
 		- Gedruckte Gewinde
+		- Festkörpergelenke
+		- Deformation in linearelastischen Bereich
 	- trl
 	  collapsed:: true
 		- TL1
