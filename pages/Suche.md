@@ -1,4 +1,4 @@
-- 1
+- {{embed [[Suchfunktion : Einträge und Format]]}}
 -
 -
   collapsed:: true
