@@ -1,6 +1,6 @@
 title:: Suchfunktion : Einträge und Format
 
-- ==Liste der möglichen Einträge für die Suchfunktion==
+- ==Liste der möglichen Suchkriterien für die Suchfunktion==
 	-
 	  <ins>W2-Ebene</ins>
 		- genutzte-freiheiten-der-am
@@ -52,6 +52,6 @@ title:: Suchfunktion : Einträge und Format
 - ==Suchfunktion : Format==
 	- Starten mit dem Befehl "/query"
 	- Auf Enter drücken -> "{{query }}"
-	- Im Klammer, hinter "query" -> zu suchende Wirkprinzipien mithilfe von ihren Eigenschaften finden
+	- Im Klammer, hinter "query" -> zu suchende Wirkprinzipien mithilfe von Suchkriterium finden
 	- Format -> "{{query (property key value)}}"
 	- Wenn mehr als ein Suchkriterium
