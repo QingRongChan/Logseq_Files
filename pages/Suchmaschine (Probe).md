@@ -71,4 +71,5 @@
 -
 -
 - Test Query Funktion Property Bezeichnung
+	- genutzte-freiheiten-der-am
 	-
