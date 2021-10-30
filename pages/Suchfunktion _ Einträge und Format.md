@@ -54,4 +54,4 @@ title:: Suchfunktion : Einträge und Format
 	- Auf Enter drücken -> "{{query }}"
 	- Im Klammer, hinter "query" -> zu suchende Wirkprinzipien mithilfe von Suchkriterien finden
 	- Format -> "{{query (property key value)}}"
-	- Wenn mehr als ein Suchkriterium verwendet wird -> "{{query (property key value)}}"
+	- Wenn mehr als ein Suchkriterium verwendet wird -> "{{query and ( (property key value) (property2 key2 value 2) )}}"
