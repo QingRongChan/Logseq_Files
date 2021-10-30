@@ -101,7 +101,8 @@
 			- Characterization of Electrical Heating Performance of CFDM 3D-Printed Graphene/Polylactic Acid (PLA) Horseshoe Pattern with Different 3D Printing Directions
 		- fertigungsverfahren
 			- FDM möglich
-	- W3-Ebene
+	-
+	  <ins>W3-Ebene</ins>
 		- konstruktive-freiheiten
 			- [[W4_Materialkomplexität]]
 			- [[W4_Formkomplexität]]
