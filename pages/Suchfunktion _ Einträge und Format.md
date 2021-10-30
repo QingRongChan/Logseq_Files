@@ -1,6 +1,7 @@
 title:: Suchfunktion : Einträge und Format
 
-- Liste der möglichen Einträge für die Suchfunktion
+-
+  <ins>Liste der möglichen Einträge für die Suchfunktion</ins>
 	-
 	  <ins>W2-Ebene</ins>
 	- genutzte-freiheiten-der-am
