@@ -1,5 +1,6 @@
 - {{embed ((617d0bf1-06de-42a1-b075-f83d7a18dfad))}}
 -
+-
   collapsed:: true
   1. Zu suchende Wirkprinzipien hat folgende Eigenschaften:
 	- Genutzte Freiheiten der AM -> Konstruktive Freiheiten -> Materialkomplexität -> Kombination von unterschiedlichen Materialien, Hart-weich Kombination
