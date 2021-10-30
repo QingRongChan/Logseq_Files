@@ -55,4 +55,4 @@ title:: Suchfunktion : Einträge und Format
 	- Im Klammer, hinter "query" -> zu suchende Wirkprinzipien mithilfe von Suchkriterien finden
 	- Format -> "{{query (property key value)}}"
 	- Wenn mehr als ein Suchkriterium verwendet wird -> "{{query and ( (property1 key1 value1) (property2 key2 value2) )}}"
-	-
+	- Es gibt keine Grenze für die Anzahl der Suchkriterien in der Suchfunktion
