@@ -60,4 +60,4 @@ title:: Suchfunktion : Einträge und Format
 		- Logseq Query-Funktion, Anfängerniveau
 			- [Logseq Queries](https://logseq.github.io/#/page/queries)
 		- Logseq Query-Funktion, Fortgeschrittenes Niveau
-			- /link
+			- [Logseq Advanced Queries Tutorial](https://mschmidtkorth.github.io/logseq-msk-docs/#/page/Queries%2FAdvanced%20Queries%2FTutorial)
