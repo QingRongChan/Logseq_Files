@@ -74,17 +74,19 @@
 	- genutzte-freiheiten-der-am -> W3_Konstruktive Freiheiten
 	- konstruktive-freiheiten -> W4_Materialkomplexität , W4_Formkomplexität
 	- materialkomplexität -> W5_Kombination von unterschiedlichen Materialien , Hart-Weich Kombination
-	- formkomplexität -> Gedruckte Gewinde
+	- formkomplexität
+		- Gedruckte Gewinde
 	- trl
+	  collapsed:: true
 		- TL1
-		- TL1
-		- TL1
-		- TL1
-		- TL1
-		- TL1
-		- TL1
-		- TL1
-		- TL1
-		-
+		- TL2
+		- TL3
+		- TL4
+		- TL5
+		- TL6
+		- TL7
+		- TL8
+		- TL9
+		- TL10
 	-
 	-
