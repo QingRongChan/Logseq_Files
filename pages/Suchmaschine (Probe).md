@@ -75,5 +75,16 @@
 	- konstruktive-freiheiten -> W4_Materialkomplexität , W4_Formkomplexität
 	- materialkomplexität -> W5_Kombination von unterschiedlichen Materialien , Hart-Weich Kombination
 	- formkomplexität -> Gedruckte Gewinde
+	- trl
+		- TL1
+		- TL1
+		- TL1
+		- TL1
+		- TL1
+		- TL1
+		- TL1
+		- TL1
+		- TL1
+		-
 	-
 	-
