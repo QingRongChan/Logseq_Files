@@ -72,4 +72,6 @@
 -
 - Test Query Funktion Property Bezeichnung
 	- genutzte-freiheiten-der-am
-	-
+	- W3_Konstruktive Freiheiten
+	- W4_Materialkomplexität
+	- W
