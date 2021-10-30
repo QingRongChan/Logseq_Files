@@ -87,6 +87,8 @@
 			- TL9
 			- TL10
 		- quelle
+			- Poisson Induced Bending Actuator for Soft Robotic System
+			-
 		- fertigungsverfahren
 	- W3-Ebene
 		- konstruktive-freiheiten
