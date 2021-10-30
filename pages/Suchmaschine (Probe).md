@@ -92,7 +92,10 @@
 			- A New Concept Compliant Platform with Spatial Mobility and Remote Actuation
 			- [Auxetic Structure](https://www.youtube.com/watch?v=XP5Fk-lHvK0&ab_channel=MITMediaLab)
 			- [Auxetic Structure 2](https://www.thingiverse.com/thing:881094)
-			-
+			- [Festo-Didactic](https://www.festo-didactic.com/de-de/lernsysteme/technik-fuer-allgemeinbildende-schulen/fin-ray-bastelbogen.htm?fbid=ZGUuZGUuNTQ0LjEzLjE4LjE0MDMuODUyOA)
+			- [Thingsverse](https://www.thingiverse.com/thing:1487390)
+			- 3D printing of twisting and rotational bistable structures with tuning elements
+			- Characterizing the Electrical Properties of Anisotropic, 3D-Printed Conductive Sheets for Sensor Applications
 		- fertigungsverfahren
 	- W3-Ebene
 		- konstruktive-freiheiten
