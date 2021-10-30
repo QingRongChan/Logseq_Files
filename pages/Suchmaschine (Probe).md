@@ -73,6 +73,7 @@
 - Test Query Funktion Property Bezeichnung
 	- genutzte-freiheiten-der-am -> W3_Konstruktive Freiheiten
 	- konstruktive-freiheiten -> W4_Materialkomplexität , W4_Formkomplexität
-	- materialkomplexität
-	- W5_Kombination von unterschiedlichen Materialien , Hart-Weich Kombination
+	- materialkomplexität -> W5_Kombination von unterschiedlichen Materialien , Hart-Weich Kombination
+	- formkomplexität -> Gedruckte Gewinde
+	-
 	-
