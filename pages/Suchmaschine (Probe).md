@@ -70,4 +70,5 @@
 		- Es gibt keine Grenze für die Anzahl der Property keys, die eingegeben werden können
 -
 -
-- Test Query Funktion Property
+- Test Query Funktion Property Bezeichnung
+	-
