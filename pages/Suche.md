@@ -1,6 +1,5 @@
-collapsed:: true
-1. Zu suchende Wirkprinzipien hat folgende Eigenschaften:
-
+-
+  1. Zu suchende Wirkprinzipien hat folgende Eigenschaften:
 	- Genutzte Freiheiten der AM -> Konstruktive Freiheiten -> Materialkomplexität -> Kombination von unterschiedlichen Materialien, Hart-weich Kombination
 	- Genutzte Freiheiten der AM -> Konstruktive Freiheiten -> Formkomplexität -> Gedruckte Gewinde
 	- Technological Readiness Level TRL von 3
