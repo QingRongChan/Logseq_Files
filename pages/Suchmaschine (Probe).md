@@ -77,11 +77,10 @@
 		  collapsed:: true
 			- [[W3_Konstruktive Freiheiten]]
 		- trl
-		  collapsed:: true
-			- TL1
-			- TL2
-			- TL3
-			- TL4
+			- [[TL1]]
+			- [[TL2]]
+			- [[TL3]]
+			- [[TL4]]
 			- TL5
 			- TL6
 			- TL7
