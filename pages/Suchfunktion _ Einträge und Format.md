@@ -50,4 +50,5 @@ title:: Suchfunktion : Einträge und Format
 			- Deformation in linearelastischen Bereich
 -
 - ==Suchfunktion : Format==
-	-
+	- Starten mit dem Befehl "/query"
+	- {{query }}
