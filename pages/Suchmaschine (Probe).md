@@ -120,4 +120,3 @@
 			- Festkörpergelenke
 			- Deformation in linearelastischen Bereich
 	-
-	-
