@@ -74,6 +74,18 @@
 	- W2-Ebene
 		- genutzte-freiheiten-der-am
 			- [[W3_Konstruktive Freiheiten]]
+		- trl
+		  collapsed:: true
+			- TL1
+			- TL2
+			- TL3
+			- TL4
+			- TL5
+			- TL6
+			- TL7
+			- TL8
+			- TL9
+			- TL10
 	- W3-Ebene
 		- konstruktive-freiheiten
 			- [[W4_Materialkomplexität]]
@@ -86,17 +98,5 @@
 			- Gedruckte Gewinde
 			- Festkörpergelenke
 			- Deformation in linearelastischen Bereich
-	- trl
-	  collapsed:: true
-		- TL1
-		- TL2
-		- TL3
-		- TL4
-		- TL5
-		- TL6
-		- TL7
-		- TL8
-		- TL9
-		- TL10
 	-
 	-
