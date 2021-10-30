@@ -69,11 +69,12 @@
 		- Link zu einer Seite muss nicht als Link in Query Funktion eingegeben werden
 		- Es gibt keine Grenze für die Anzahl der Property keys, die eingegeben werden können
 -
--
+- == Probe-block ->
 - Liste der möglichen Einträge für die Suchfunktion
 	-
 	  <ins>W2-Ebene</ins>
 		- genutzte-freiheiten-der-am
+		  collapsed:: true
 			- [[W3_Konstruktive Freiheiten]]
 		- trl
 		  collapsed:: true
