@@ -84,6 +84,8 @@
 			- Gedruckte Gewinde
 			- Festkörpergelenke
 			- Deformation in linearelastischen Bereich
+	- W3-Ebene
+	- W4-Ebene
 	- trl
 	  collapsed:: true
 		- TL1
