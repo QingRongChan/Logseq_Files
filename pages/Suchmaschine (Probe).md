@@ -75,4 +75,5 @@
 	- W3_Konstruktive Freiheiten
 	- W4_Materialkomplexität
 	- W4_Formkomplexität
-	- W5_Kombination von unterschiedlichen Materialien
+	- W5_Kombination von unterschiedlichen Materialien , Hart-Weich Kombination
+	-
