@@ -74,7 +74,6 @@
 	-
 	  <ins>W2-Ebene</ins>
 		- genutzte-freiheiten-der-am
-		  collapsed:: true
 			- [[W3_Konstruktive Freiheiten]]
 		- trl
 		  collapsed:: true
