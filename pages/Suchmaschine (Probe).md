@@ -69,7 +69,7 @@
 		- Link zu einer Seite muss nicht als Link in Query Funktion eingegeben werden
 		- Es gibt keine Grenze für die Anzahl der Property keys, die eingegeben werden können
 -
-- == Probe-block ->
+- ==Probe-block -> Noch verbesserungsbedürftig==
 - Liste der möglichen Einträge für die Suchfunktion
 	-
 	  <ins>W2-Ebene</ins>
