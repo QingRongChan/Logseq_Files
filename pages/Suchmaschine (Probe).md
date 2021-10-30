@@ -88,6 +88,10 @@
 			- TL10
 		- quelle
 			- Poisson Induced Bending Actuator for Soft Robotic System
+			- Compliant Morphing Wing
+			- A New Concept Compliant Platform with Spatial Mobility and Remote Actuation
+			- [Auxetic Structure](https://www.youtube.com/watch?v=XP5Fk-lHvK0&ab_channel=MITMediaLab)
+			- [Auxetic Structure 2](https://www.thingiverse.com/thing:881094)
 			-
 		- fertigungsverfahren
 	- W3-Ebene
