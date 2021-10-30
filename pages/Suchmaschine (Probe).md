@@ -71,8 +71,8 @@
 -
 -
 - Test Query Funktion Property Bezeichnung
-	- genutzte-freiheiten-der-am
-	- W3_Konstruktive Freiheiten
+	- genutzte-freiheiten-der-am -> W3_Konstruktive Freiheiten
+	- konstruktive-freiheiten
 	- W4_Materialkomplexität
 	- W4_Formkomplexität
 	- W5_Kombination von unterschiedlichen Materialien , Hart-Weich Kombination
