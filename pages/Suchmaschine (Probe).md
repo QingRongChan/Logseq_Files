@@ -81,12 +81,12 @@
 			- [[TL2]]
 			- [[TL3]]
 			- [[TL4]]
-			- TL5
-			- TL6
-			- TL7
-			- TL8
-			- TL9
-			- TL10
+			- [[TL5]]
+			- [[TL6]]
+			- [[TL7]]
+			- [[TL8]]
+			- [[TL9]]
+			- [[TL10]]
 		- quelle
 		  collapsed:: true
 			- Poisson Induced Bending Actuator for Soft Robotic System
