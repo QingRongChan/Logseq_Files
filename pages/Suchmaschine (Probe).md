@@ -87,6 +87,7 @@
 			- TL9
 			- TL10
 		- quelle
+		- fertigungsverfahren
 	- W3-Ebene
 		- konstruktive-freiheiten
 			- [[W4_Materialkomplexität]]
