@@ -74,4 +74,5 @@
 	- genutzte-freiheiten-der-am
 	- W3_Konstruktive Freiheiten
 	- W4_Materialkomplexität
-	- W
+	- W4_Formkomplexität
+	- W5_Kombination von unterschiedlichen Materialien
