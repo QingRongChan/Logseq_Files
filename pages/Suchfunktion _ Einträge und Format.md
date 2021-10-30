@@ -51,5 +51,4 @@ title:: Suchfunktion : Einträge und Format
 -
 - ==Suchfunktion : Format==
 	- Starten mit dem Befehl "/query"
-	- Danach auf Enter drücken -> " {{query }} "
-	-
+	- Danach auf Enter drücken -> ""{{query }}""
