@@ -1,6 +1,7 @@
 - {{embed [[Suchfunktion : Einträge und Format]]}}
 -
 -
+  collapsed:: true
   1. Zu suchende Wirkprinzipien hat folgende Eigenschaften:
 	- Genutzte Freiheiten der AM -> Konstruktive Freiheiten -> Materialkomplexität -> Kombination von unterschiedlichen Materialien, Hart-weich Kombination
 	- Genutzte Freiheiten der AM -> Konstruktive Freiheiten -> Formkomplexität -> Gedruckte Gewinde
@@ -11,6 +12,7 @@
 	  query-table:: false
 -
   background-color:: #533e7d
+  collapsed:: true
   2. Zu suchende Wirkprinzipien hat folgende Eigenschaften:
 	- Genutzte Freiheiten der AM -> Konstruktive Freiheiten -> Materialkomplexität -> Material wird im linearelastischen Bereich deformiert
 	- Fertigungsverfahren -> FDM möglich
