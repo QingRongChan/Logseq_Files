@@ -1,7 +1,7 @@
 - Gedruckte Gewinde
-	- #[[Formänderung durch Volumenänderungen von Druckkammern]]
+	- #[[W1_Formänderung durch Volumenänderungen von Druckkammern]]
 - Festkörpergelenke
-	- #W4_Formkomplexität
+	- #[[W1_Positionierung von Körpern um die drei Raumachsen mittels drei rotatorische Bewegungen]]
 - Deformation in linearelastischen Bereich
 	- #[[W1_Bewegung in zwei diskreten Zustände,Bistabiles System]]
 	- #[[W1_Erwärmen von Oberflächen,Strukturen]]
