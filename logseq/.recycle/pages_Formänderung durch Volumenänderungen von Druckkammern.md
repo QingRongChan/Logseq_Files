@@ -1,2 +1,0 @@
-- [[W2_Genutzte Freiheiten der AM]]
-- [[W2_Technology Readiness Level]]

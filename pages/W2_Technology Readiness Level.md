@@ -24,7 +24,7 @@
   Wirkprinzipien:: [[W1_Änderung der Bauteilform durch seitwärtige Bewegung]]
 - #TL9
   Kriterium:: [[W2_Technology Readiness Level]]
-  Wirkprinzipien::
+  Wirkprinzipien:: [[W1_Bewegung in zwei diskreten Zustände,Bistabiles System]]
 - #TL10
   Kriterium:: [[W2_Technology Readiness Level]]
-  wirkprinzipien:: [[W1_Erwärmen von Oberflächen,Strukturen]] [[W1_Bewegung in zwei diskreten Zustände,Bistabiles System]]
+  wirkprinzipien:: [[W1_Erwärmen von Oberflächen,Strukturen]]

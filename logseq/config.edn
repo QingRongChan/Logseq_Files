@@ -163,8 +163,7 @@
  :ref/linked-references-collapsed-threshold 50
  :zotero/settings-v2 {"default" {:type-id "8467258", :zotero-data-directory "C:\\Program Files (x86)\\Zotero"}}
  :graph/settings {:orphan-pages? false, :journal? false, :builtin-pages? true}
- :favorites ("Suchkriterium" "Suchfunktion : Einträge und Format" "Suche" "Suchmaschine (Probe)" "Teilfunktionen" "Wirkprinzipien" "Suchmaschine")
- :preferred-format :markdown
+ :favorites ["Teilfunktionen" "Wirkprinzipien" "Suchmaschine" "Suchkriterium"]
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5

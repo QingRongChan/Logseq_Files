@@ -1,1 +1,1 @@
-- FDM möglich #[[W1_Ausgleichsbewegung(compliant mechanismus)]]
+- FDM möglich #[[Ausgleichsbewegung(compliant mechanismus)]]
