@@ -1,6 +1,7 @@
 title:: Suchfunktion : Einträge und Format
 
-- ==Liste der möglichen Suchkriterien für die Suchfunktion==
+- ==Liste der möglichen Suchkriterien für die Suchfunktion== #kanban
+	-
 	-
 	  <ins>W2-Ebene</ins>
 		- genutzte-freiheiten-der-am
