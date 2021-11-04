@@ -38,7 +38,7 @@
 	- Characterization of Electrical Heating Performance of CFDM 3D-Printed Graphene/Polylactic Acid (PLA) Horseshoe Pattern with Different 3D Printing Directions
 		- [[✅ Erwärmen von Oberflächen,Strukturen]]
 	- TestLiterature
-	-
+		- /zotero
 - [[W2_Fertigungsverfahren]]
   collapsed:: true
 	- FDM möglich
