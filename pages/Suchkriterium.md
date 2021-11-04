@@ -66,9 +66,3 @@
 	- [[TL10]]
 		- [[✅ Bewegung in zwei diskreten Zustände,Bistabiles System]]
 		- [[✅ Erwärmen von Oberflächen,Strukturen]]
--
-- Testing auto commit
-- blablablabala
-- aiwbhfaeuifbhawejkfenjkfebejhkbvwejhfbverjhbseuirfbh
-- WEUFGBERJKGNBERJKBNRGJK
--
