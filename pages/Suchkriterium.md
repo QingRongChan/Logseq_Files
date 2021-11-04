@@ -1,4 +1,5 @@
 - [[W2_Genutzte Freiheiten der AM]]
+  collapsed:: true
 	- [[W3_Konstruktive Freiheiten]]
 		- [[W4_Materialkomplexität]]
 			- [[W5_Kombination von unterschiedlichen Materialien , Hart-Weich Kombination]]
@@ -15,6 +16,7 @@
 				- [[✅ Bewegung in zwei diskreten Zustände,Bistabiles System]]
 				- [[✅ Erwärmen von Oberflächen,Strukturen]]
 - [[W2_Quelle]]
+  collapsed:: true
 	- Poisson Induced Bending Actuator for Soft Robotic System
 		- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
 	- Compliant Morphing Wing
