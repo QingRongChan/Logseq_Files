@@ -1,9 +1,6 @@
 - Take 1 =Basic Query== Status: ⭕
-  collapsed:: true
 	- Option 1-> Datomic
-	  collapsed:: true
 		- Noch in Testphase -> Datomic und Chanpony Query-Funktion
-		  collapsed:: true
 			- query-table:: true
 			  query-sort-by:: block
 			  query-sort-desc:: true
