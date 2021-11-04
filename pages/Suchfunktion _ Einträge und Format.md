@@ -4,10 +4,8 @@ title:: Suchfunktion : Einträge und Format
 	-
 	  <ins>W2-Ebene</ins>
 		- genutzte-freiheiten-der-am
-		  collapsed:: true
 			- [[W3_Konstruktive Freiheiten]]
 		- trl
-		  collapsed:: true
 			- [[TL1]]
 			- [[TL2]]
 			- [[TL3]]
@@ -19,7 +17,6 @@ title:: Suchfunktion : Einträge und Format
 			- [[TL9]]
 			- [[TL10]]
 		- quelle
-		  collapsed:: true
 			- Poisson Induced Bending Actuator for Soft Robotic System
 			- Compliant Morphing Wing
 			- A New Concept Compliant Platform with Spatial Mobility and Remote Actuation
@@ -32,7 +29,6 @@ title:: Suchfunktion : Einträge und Format
 			- Design of additively manufactured heat-generating structures
 			- Characterization of Electrical Heating Performance of CFDM 3D-Printed Graphene/Polylactic Acid (PLA) Horseshoe Pattern with Different 3D Printing Directions
 		- fertigungsverfahren
-		  collapsed:: true
 			- FDM möglich
 	-
 	  <ins>W3-Ebene</ins>
