@@ -1,3 +1,4 @@
+- Usage of
 - [[W2_Genutzte Freiheiten der AM]]
 	- [[W3_Konstruktive Freiheiten]]
 		- [[W4_Materialkomplexität]]
@@ -15,7 +16,7 @@
 				- [[✅ Bewegung in zwei diskreten Zustände,Bistabiles System]]
 				- [[✅ Erwärmen von Oberflächen,Strukturen]]
 -
-- [[W2_Quelle]] #.v-kanban
+- [[W2_Quelle]] #kanban
 	- Poisson Induced Bending Actuator for Soft Robotic System
 		- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
 	- Compliant Morphing Wing
