@@ -1,6 +1,8 @@
 title:: Suchfunktion : Einträge und Format
 
-- ==Liste der möglichen Suchkriterien für die Suchfunktion== #kanban
+- ==Liste der möglichen Suchkriterien für die Suchfunktion== #kanban-w100
+	-
+	-
 	-
 	-
 	  <ins>W2-Ebene</ins>
