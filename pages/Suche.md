@@ -1,7 +1,7 @@
 - {{embed [[Suchfunktion : Einträge und Format]]}}
 -
 -
-  1. Zu suchende Wirkprinzipien hat folgende Eigenschaften:
+  1. Zu suchende Wirkprinzipien hat folgende Eigenschaften: #.v-numlist
 	- Genutzte Freiheiten der AM -> Konstruktive Freiheiten -> Materialkomplexität -> Kombination von unterschiedlichen Materialien, Hart-weich Kombination
 	- Genutzte Freiheiten der AM -> Konstruktive Freiheiten -> Formkomplexität -> Gedruckte Gewinde
 	- Technological Readiness Level TRL von 3
@@ -13,7 +13,7 @@
 	  query-sort-desc:: true
 -
   background-color:: #533e7d
-  2. Zu suchende Wirkprinzipien hat folgende Eigenschaften:
+  2. Zu suchende Wirkprinzipien hat folgende Eigenschaften: #.v-numlist
 	- Genutzte Freiheiten der AM -> Konstruktive Freiheiten -> Materialkomplexität -> Material wird im linearelastischen Bereich deformiert
 	- Fertigungsverfahren -> FDM möglich
 	- Technological Readiness Level TRL von 4
