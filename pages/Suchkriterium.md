@@ -39,7 +39,7 @@
 		- [[✅ Erwärmen von Oberflächen,Strukturen]]
 	- TestLiterature
 		- [[@Plasticity]]
-		-
+		- [[✅ Wirkprinzipien 2]]
 - [[W2_Fertigungsverfahren]]
   collapsed:: true
 	- FDM möglich

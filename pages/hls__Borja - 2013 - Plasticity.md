@@ -2,4 +2,4 @@
   ls-type:: annotation
   hl-page:: 47
   id:: 61839b2e-98a4-45bf-9ee7-6ea746b70ea4
-	- [[W2_Quelle]]
+	- [[✅ Wirkprinzipien 2]]
