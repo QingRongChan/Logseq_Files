@@ -16,7 +16,7 @@
 				- [[✅ Bewegung in zwei diskreten Zustände,Bistabiles System]]
 				- [[✅ Erwärmen von Oberflächen,Strukturen]]
 -
-- [[W2_Quelle]] #.v-kanban-wwide
+- [[W2_Quelle]] #.v-kanban-wide
 	- Poisson Induced Bending Actuator for Soft Robotic System
 		- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
 	- Compliant Morphing Wing
