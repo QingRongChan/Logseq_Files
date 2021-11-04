@@ -48,6 +48,8 @@ title:: Suchfunktion : Einträge und Format
 			- Gedruckte Gewinde
 			- Festkörpergelenke
 			- Deformation in linearelastischen Bereich
+		-
+		  <progress value="42" max="100" />
 -
 - ==Suchfunktion : Format==
 	- Starten mit dem Befehl "/query"
