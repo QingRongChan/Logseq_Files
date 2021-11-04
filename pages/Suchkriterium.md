@@ -1,5 +1,4 @@
 - [[W2_Genutzte Freiheiten der AM]] #kanban
-  collapsed:: true
 	- [[W3_Konstruktive Freiheiten]]
 		- [[W4_Materialkomplexität]]
 			- [[W5_Kombination von unterschiedlichen Materialien , Hart-Weich Kombination]]
