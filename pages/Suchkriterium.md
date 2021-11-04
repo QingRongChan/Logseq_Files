@@ -16,7 +16,7 @@
 				- [[✅ Bewegung in zwei diskreten Zustände,Bistabiles System]]
 				- [[✅ Erwärmen von Oberflächen,Strukturen]]
 -
-- [[W2_Quelle]] #.v-kanban-wide wide kanban
+- [[W2_Quelle]] #.v-kanban-wide Wide kanban
 	- Poisson Induced Bending Actuator for Soft Robotic System
 		- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
 	- Compliant Morphing Wing
@@ -45,7 +45,7 @@
 - [[W2_Fertigungsverfahren]]
 	- FDM möglich
 		- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
-- [[W2_Technology Readiness Level]] #.v-numlist
+- [[W2_Technology Readiness Level]] #.v-numlist #.v-kanban-w400
 	- [[TL1]]
 		- [[✅ Wirkprinzipien 2]]
 	- [[TL2]]
