@@ -1,5 +1,3 @@
--
-  <iframe src="https://piotrsss.github.io/logseq-tools/public/#/mini-calendar" width="100%" height="700px" />
 - [[W2_Genutzte Freiheiten der AM]]
 	- [[W3_Konstruktive Freiheiten]]
 		- [[W4_Materialkomplexität]]
