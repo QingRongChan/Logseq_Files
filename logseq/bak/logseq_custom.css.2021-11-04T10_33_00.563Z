@@ -174,8 +174,5 @@ div[data-refs-self*="kanban-w300"] > .block-children {
 	padding: 10px 0;
 }
 div[data-refs-self*="kanban-w400"] > .block-children .block-content {
-	width:380px; 
-}
-div[data-refs-self*="kanban-w600"] > .block-children .block-content {
-	width:600px;
+	width:380px;
 }
