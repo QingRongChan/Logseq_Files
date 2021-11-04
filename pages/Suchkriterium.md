@@ -16,7 +16,6 @@
 				- [[✅ Erwärmen von Oberflächen,Strukturen]]
 -
 - [[W2_Quelle]] #.v-kanban
-	-
 	- Poisson Induced Bending Actuator for Soft Robotic System
 		- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
 	- Compliant Morphing Wing
