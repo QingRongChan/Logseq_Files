@@ -1,4 +1,4 @@
-- [[W2_Genutzte Freiheiten der AM]]
+- [[W2_Genutzte Freiheiten der AM]] #kanban
   collapsed:: true
 	- [[W3_Konstruktive Freiheiten]]
 		- [[W4_Materialkomplexität]]
@@ -15,6 +15,7 @@
 			- Deformation in linearelastischen Bereich
 				- [[✅ Bewegung in zwei diskreten Zustände,Bistabiles System]]
 				- [[✅ Erwärmen von Oberflächen,Strukturen]]
+-
 - [[W2_Quelle]]
   collapsed:: true
 	- Poisson Induced Bending Actuator for Soft Robotic System
