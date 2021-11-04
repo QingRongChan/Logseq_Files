@@ -1,5 +1,5 @@
 title:: Wirkprinzipien
-tag:: #p-cards
+pagetag:: #p-cards
 
 - **[[W1_Wirkprinzipien 2]]**
 - **[[W1_Kraft speichern]]**
