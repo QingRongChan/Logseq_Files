@@ -1,5 +1,8 @@
 - Bug vorhanden. Status 1.11.2021-> Bug reported und ist gerade untersucht
-- noch keine Suche in PDF
+- noch keine Suche in PDF -> Feature request submitted
+	- link
+	  collapsed:: true
+		- https://discuss.logseq.com/t/please-add-pdf-search-word-at-pdf-and-page-search-word-at-page-use-shortcut-ctrl-f/1988
 - Some historical developments of the perfectly plasticJ2theory date backto the works by de Saint-Venant (1870) and L ́evy (1871), who proposed aflow rule for rigid-plastic material
   hl-page:: 47
   ls-type:: annotation
