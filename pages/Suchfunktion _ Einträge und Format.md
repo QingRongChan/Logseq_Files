@@ -5,7 +5,7 @@ title:: Suchfunktion : Einträge und Format
 	  <ins>W2-Ebene</ins>
 		- genutzte-freiheiten-der-am
 			- [[W3_Konstruktive Freiheiten]]
-		- trl #kanban-small
+		- trl #kanban-w400
 			- [[TL1]]
 			- [[TL2]]
 			- [[TL3]]
