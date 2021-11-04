@@ -15,7 +15,6 @@
 				- [[✅ Bewegung in zwei diskreten Zustände,Bistabiles System]]
 				- [[✅ Erwärmen von Oberflächen,Strukturen]]
 - [[W2_Quelle]]
-  collapsed:: true
 	- Poisson Induced Bending Actuator for Soft Robotic System
 		- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
 	- Compliant Morphing Wing
@@ -38,6 +37,8 @@
 		- [[✅ Erwärmen von Oberflächen,Strukturen]]
 	- Characterization of Electrical Heating Performance of CFDM 3D-Printed Graphene/Polylactic Acid (PLA) Horseshoe Pattern with Different 3D Printing Directions
 		- [[✅ Erwärmen von Oberflächen,Strukturen]]
+	- TestLiterature
+	-
 - [[W2_Fertigungsverfahren]]
   collapsed:: true
 	- FDM möglich
