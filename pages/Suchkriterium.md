@@ -1,4 +1,4 @@
-- Usage of .v-kanban,  .v-numlist and
+- Usage of .v-kanban,  .v-numlist and kanban
 - [[W2_Genutzte Freiheiten der AM]]
 	- [[W3_Konstruktive Freiheiten]]
 		- [[W4_Materialkomplexität]]
