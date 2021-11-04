@@ -45,7 +45,7 @@
 - [[W2_Fertigungsverfahren]]
 	- FDM möglich
 		- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
-- [[W2_Technology Readiness Level]] #.v-numlist #.v-kanban-w400
+- [[W2_Technology Readiness Level]] #.v-numlist #.v-kanban-w600
 	- [[TL1]]
 		- [[✅ Wirkprinzipien 2]]
 	- [[TL2]]
