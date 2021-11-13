@@ -30,7 +30,6 @@
 /* css kanban block view for child blocks by cannibalox v20210220 */
 /* use: inline tag #kanban, #kanban-small or #kanban-wXXX    */
 /* try:  #kanban-w200,#kanban-w300, #kanban-w400             */
-/* until now only settings in kanban work. kanban-wXXX does not work */
 
 div[data-refs-self*="kanban"] > .block-children {
 	display: inline-flex;
