@@ -1,10 +1,10 @@
 - Usage of .v-kanban,  .v-numlist
 -
   <mark class='grey'>[[W2_Genutzte Freiheiten der AM]]</mark>
-	-
-	  <mark class='blue'>[[W3_Konstruktive Freiheiten]]</mark>
+	- [[W3_Konstruktive Freiheiten]]
 		- [[W4_Materialkomplexität]] #.v-kanban
-			- [[W5_Kombination von unterschiedlichen Materialien , Hart-Weich Kombination]]
+			-
+			  <mark class='blue'>[[W5_Kombination von unterschiedlichen Materialien , Hart-Weich Kombination]]</mark>
 				- [[✅ Formänderung durch Volumenänderungen von Druckkammern]]
 				- [[✅ Positionierung von Körpern um die drei Raumachsen mittels drei rotatorische Bewegungen]]
 			- [[W5_Material wird im linearelastischen Bereich deformiert]]
