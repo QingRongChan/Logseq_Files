@@ -24,7 +24,6 @@
 	- [[✅ Änderung der Bauteilform durch seitwärtige Bewegung]]
 -
   <mark class='blue'>Thingsverse</mark>
-  collapsed:: true
 	- [Thingsverse](https://www.thingiverse.com/thing:1487390)
 	- [[✅ Änderung der Bauteilform durch seitwärtige Bewegung]]
 -
