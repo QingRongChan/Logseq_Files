@@ -3,13 +3,13 @@
   <mark class='grey'>[[W2_Genutzte Freiheiten der AM]]</mark>
 	-
 	  <mark class='blue'>[[W3_Konstruktive Freiheiten]]</mark>
-		- [[W4_Materialkomplexität]] #.v-kanban-wide
+		- [[W4_Materialkomplexität]]
 			- [[W5_Kombination von unterschiedlichen Materialien , Hart-Weich Kombination]]
 				- [[✅ Formänderung durch Volumenänderungen von Druckkammern]]
 				- [[✅ Positionierung von Körpern um die drei Raumachsen mittels drei rotatorische Bewegungen]]
 			- [[W5_Material wird im linearelastischen Bereich deformiert]]
 				- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
-		- [[W4_Formkomplexität]] #kanban-w200
+		- [[W4_Formkomplexität]]
 			- Gedruckte Gewinde
 				- [[✅ Formänderung durch Volumenänderungen von Druckkammern]]
 			- Festkörpergelenke
@@ -19,7 +19,7 @@
 				- [[✅ Erwärmen von Oberflächen,Strukturen]]
 -
 -
-  <mark class='grey'>[[W2_Quelle]]</mark> ""
+  <mark class='grey'>[[W2_Quelle]]</mark>
 	-
 	  <mark class='blue'>Poisson Induced Bending Actuator for Soft Robotic System</mark>
 		- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
