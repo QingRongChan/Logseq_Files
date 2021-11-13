@@ -54,5 +54,5 @@ div[level="2"]{
 	}
 	.ls-block {
 		margin: 50px 12px 0px -2px; /*distance between top points*/
-		padding: 5px 10px 10px 10px; /*padding below and on top of card block to card block
+		padding: 15px 10px 10px 10px; /*padding below and on top of card block to card block
 	}
