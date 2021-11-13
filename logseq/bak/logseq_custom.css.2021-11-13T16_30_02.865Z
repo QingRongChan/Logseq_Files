@@ -11,7 +11,7 @@
 /* ====================-======== */
 
 	.cp__sidebar-main-content {
-			padding: 1rem 1.5rem; /* x and y distance to upper left corner */
+			padding: 1rem 1.5rem;
 			margin: 0;
 			max-width: var(--main-container-width);
 		}
@@ -34,7 +34,7 @@
 /* === tweak layout margins  ==== */
 	
 .blocks-container,.doc-mode {
-		margin: 0px 1000;
+		margin: 0px 0;
 	}
 
 /* ============================== */
