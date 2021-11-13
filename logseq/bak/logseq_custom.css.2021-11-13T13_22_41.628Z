@@ -84,4 +84,29 @@ div[data-refs-self*="kanban-w600"] > .block-children .block-content {
 		--mod-cards-width: 252px;
 		}  
 
+	.cp__sidebar-main-content {
+			padding: 2rem 1.5rem;
+			margin: 0;
+			max-width: var(--main-container-width);
+		}
+	.foldable-title {
+		max-width: var(--main-container-width);
+		} 
+	div[data-refs-self*="kanban"]> .block-children{
+		display:inline-block;
+		width: var(--mod-cards-width); 
+		position:absolute;
+		top: 10px;
+		vertical-align: top;
+		margin-bottom: 20px;
+	}
+	.embed-block .ls-block {
+		display: inline;
+	}
+
+/* ============================== */
+/* === tweak layout margins  ==== */
 	
+.blocks-container,.doc-mode {
+		margin: 0px 0;
+	}  
