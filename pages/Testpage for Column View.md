@@ -1,4 +1,6 @@
+-
 - [[W2_Quelle]]
+  collapsed:: true
 	-
 	  <mark class='blue'>Poisson Induced Bending Actuator for Soft Robotic System</mark>
 	-
