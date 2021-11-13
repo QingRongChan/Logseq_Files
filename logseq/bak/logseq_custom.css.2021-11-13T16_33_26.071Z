@@ -3,7 +3,7 @@
 
 	:root {
 		--main-container-width : 1800px; 
-		--mod-cards-width: 1200px;
+		--mod-cards-width: 200px;
 		}  
 
 /* ============================= */
@@ -53,6 +53,6 @@ div[level="2"]{
 		margin: 20px; /* distance to top point */
 	}
 	.ls-block {
-		margin: 50px 12px 0px -2px; /*distance between top points*/
+		margin: 50px 12px 0px -2px;
 		padding: 5px 8px 0px 0px;
 	}
