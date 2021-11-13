@@ -1,6 +1,5 @@
 ## [[W2_Genutzte Freiheiten der AM]]
 	- ### [[W3_Konstruktive Freiheiten]]
-	  collapsed:: true
 		- [[W4_Materialkomplexität]]
 			- [[W5_Kombination von unterschiedlichen Materialien , Hart-Weich Kombination]]
 				- [[✅ Formänderung durch Volumenänderungen von Druckkammern]]
@@ -56,13 +55,11 @@
 		- [[✅ Erwärmen von Oberflächen,Strukturen]]
 	-
 	  <mark class='blue'>Characterization of Electrical Heating Performance of CFDM 3D-Printed Graphene/Polylactic Acid (PLA) Horseshoe Pattern with Different 3D Printing Directions</mark>
-	  collapsed:: true
 		- [[@Plasticity]]
 		- [[✅ Wirkprinzipien 2]]
 ## [[W2_Fertigungsverfahren]]
 	-
 	  <mark class='blue'>FDM möglich</mark>
-	  collapsed:: true
 		- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
 ## [[W2_Technology Readiness Level]]
 	-
@@ -93,7 +90,6 @@
 	  <mark class='blue'>[[TL9]]</mark>
 	-
 	  <mark class='blue'>[[TL10]]</mark>
-	  collapsed:: true
 		- [[✅ Bewegung in zwei diskreten Zustände,Bistabiles System]]
 		- [[✅ Erwärmen von Oberflächen,Strukturen]]
 -
