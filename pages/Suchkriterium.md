@@ -47,7 +47,7 @@
 		- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
 - [[W2_Technology Readiness Level]] #.v-numlist
 	-
-	  <mark class='ygreen'>[[TL1]]</mark>
+	  <mark class='red'>[[TL1]]</mark>
 		- [[✅ Wirkprinzipien 2]]
 	- [[TL2]]
 		- [[✅ Kraft speichern]]
