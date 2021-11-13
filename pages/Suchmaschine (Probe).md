@@ -1,7 +1,5 @@
-tags:: #p.cards
-
+-
 - Take 1 =Basic Query== Status: ⭕
-  collapsed:: true
 	- Option 1-> Datomic
 	  collapsed:: true
 		- Noch in Testphase -> Datomic und Chanpony Query-Funktion
@@ -45,16 +43,13 @@ tags:: #p.cards
 		  | #Teilfunktion_1 | #2D | #>50N| #DK1_1| #DK2_2 | {{query  (property tl TL4) (property form 3D)}} |
 		  | #Teilfunktion_2 | #3D | #>70N | #DK1_2 | #DK2_3 | t |
 - Take 2 =Query in Org Mode== Status: ❌
-  collapsed:: true
 	- Trying out Query in org mode
 		- Try to include a standout-block using org mdoe in write down editor
 - Take 3 ==Test advance query== Status: ✅
-  collapsed:: true
 	- {{query (and (property konstruktive-freiheiten [[W4_Materialkomplexität]]) (property materialkomplexität [[W5_Kombination von unterschiedlichen Materialien , Hart-Weich Kombination]]) (property formkomplexität Gedruckte Gewinde) (property trl TL3) )}}
 	  query-table:: false
 	- {{query (and (property konstruktive-freiheiten W4_Materialkomplexität ) (property materialkomplexität W5_Material wird im linearelastischen Bereich deformiert) (property fertigungsverfahren FDM möglich) (property trl TL4) )}}
 - Take 4 ==Query Regel== Status: ✅
-  collapsed:: true
 	- Derzeitige properties der jeweiligen Seite der Wirkprinzipien
 		- genutzte-freiheiten-der-am
 		- konstruktive-freiheiten
