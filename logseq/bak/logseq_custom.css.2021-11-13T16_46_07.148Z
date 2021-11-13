@@ -42,11 +42,11 @@
 	
 div[level="2"]{
 		box-shadow: 2px 2px 3px #0000003b;
-		border: 1px solid black;
+		border: 5px solid black;
 		border-radius: 6px;
 		background-color: var(--ls-tertiary-background-color);
 		margin: 1000px 15px 1000px 10px; /* SPACE BETWEEN CARDS */
-		padding: 1em 0.5em;  /* CARDS BOARDER , width and height of one card*/
+		padding: 1em 1em;  /* CARDS BOARDER , width and height of one card*/
 	}
 	.block-children .ls-block {
 		border: 0px solid var(--ls-secondary-text-color);
