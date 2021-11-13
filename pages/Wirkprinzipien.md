@@ -1,7 +1,10 @@
 title:: Wirkprinzipien
+tags: #p-cards
 
 - **[[W1_Wirkprinzipien 2]]**
+	- bla
 - **[[W1_Kraft speichern]]**
+	- blabal
 - **[[W1_Formänderung durch Volumenänderungen von Druckkammern]]**
 - **[[W1_Ausgleichsbewegung(compliant mechanismus)]]**
 - **[[W1_Positionierung von Körpern um die drei Raumachsen mittels drei rotatorische Bewegungen]]**
