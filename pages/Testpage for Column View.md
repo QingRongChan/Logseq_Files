@@ -11,7 +11,11 @@
   <mark class='blue'>Auxetic Structure</mark>
 	- [Auxetic Structure](https://www.youtube.com/watch?v=XP5Fk-lHvK0&ab_channel=MITMediaLab)
 	- [[✅ Bewegungsablauf in einer Ebene kopieren]]
-	-
+	- bla
+	- bklanef
+	- iefnkaejfn
+	- seifbserjkfnwe
+	- efiusnefujn
 -
   <mark class='blue'>Auxetic Structure 2</mark>
 	- [Auxetic Structure 2](https://www.thingiverse.com/thing:881094)
