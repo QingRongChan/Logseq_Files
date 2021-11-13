@@ -60,16 +60,12 @@
 		- [[@Plasticity]]
 		- [[✅ Wirkprinzipien 2]]
 -
--
--
 ## [[W2_Fertigungsverfahren]]
 collapsed:: true
 	-
 	  <mark class='blue'>FDM möglich</mark>
 	  collapsed:: true
 		- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
--
--
 -
 ## [[W2_Technology Readiness Level]]
 collapsed:: true
