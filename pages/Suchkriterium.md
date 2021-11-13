@@ -26,9 +26,11 @@
 	-
 	  <mark class='blue'>Compliant Morphing Wing</mark>
 		- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
-	- A New Concept Compliant Platform with Spatial Mobility and Remote Actuation
+	-
+	  <mark class='blue'>A New Concept Compliant Platform with Spatial Mobility and Remote Actuation</mark>
 		- [[✅ Positionierung von Körpern um die drei Raumachsen mittels drei rotatorische Bewegungen]]
-	- [Auxetic Structure](https://www.youtube.com/watch?v=XP5Fk-lHvK0&ab_channel=MITMediaLab)
+	-
+	  <mark class='blue'>[Auxetic Structure](https://www.youtube.com/watch?v=XP5Fk-lHvK0&ab_channel=MITMediaLab)</mark>
 		- [[✅ Bewegungsablauf in einer Ebene kopieren]]
 	- [Auxetic Structure 2](https://www.thingiverse.com/thing:881094)
 		- [[✅ Oberflächenformänderungen unter Krafteinleitung von einer panarenstrukturn zu einer Teilkugelform]]
