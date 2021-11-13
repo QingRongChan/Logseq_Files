@@ -34,8 +34,12 @@
 		- [Auxetic Structure](https://www.youtube.com/watch?v=XP5Fk-lHvK0&ab_channel=MITMediaLab)
 		- [[✅ Bewegungsablauf in einer Ebene kopieren]]
 	-
+	  <mark class='blue'>Auxetic Structure 2</mark>
+		- [Auxetic Structure 2](https://www.thingiverse.com/thing:881094)
 		- [[✅ Oberflächenformänderungen unter Krafteinleitung von einer panarenstrukturn zu einer Teilkugelform]]
-	- [Festo-Didactic](https://www.festo-didactic.com/de-de/lernsysteme/technik-fuer-allgemeinbildende-schulen/fin-ray-bastelbogen.htm?fbid=ZGUuZGUuNTQ0LjEzLjE4LjE0MDMuODUyOA)
+	-
+	  <mark class='blue'>Festo Didactic</mark>
+		-
 		- [[✅ Änderung der Bauteilform durch seitwärtige Bewegung]]
 	- [Thingsverse](https://www.thingiverse.com/thing:1487390)
 		- [[✅ Änderung der Bauteilform durch seitwärtige Bewegung]]
