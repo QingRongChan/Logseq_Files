@@ -50,7 +50,7 @@ div[level="2"]{
 	}
 	.block-children .ls-block {
 		border: 0px solid var(--ls-secondary-text-color);
-		margin: 120px; /* distance to top point */
+		margin: 20px; /* distance to top point */
 	}
 	.ls-block {
 		margin: 50px 12px 0px -2px; /*distance between top points*/
