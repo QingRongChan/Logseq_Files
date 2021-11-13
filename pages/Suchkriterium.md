@@ -1,7 +1,7 @@
 - Usage of .v-kanban,  .v-numlist
 - [[W2_Genutzte Freiheiten der AM]]
 	- [[W3_Konstruktive Freiheiten]]
-		- [[W4_Materialkomplexität]] #.v-kanban
+		- [[W4_Materialkomplexität]]
 			- [[W5_Kombination von unterschiedlichen Materialien , Hart-Weich Kombination]]
 				- [[✅ Formänderung durch Volumenänderungen von Druckkammern]]
 				- [[✅ Positionierung von Körpern um die drei Raumachsen mittels drei rotatorische Bewegungen]]
@@ -17,7 +17,7 @@
 				- [[✅ Erwärmen von Oberflächen,Strukturen]]
 -
 -
-  <mark class='grey'>[[W2_Quelle]]</mark> "#.v-kanban-wide"
+  <mark class='grey'>[[W2_Quelle]]</mark> #.v-kanban-wide
 	- Poisson Induced Bending Actuator for Soft Robotic System
 		- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
 	- Compliant Morphing Wing
