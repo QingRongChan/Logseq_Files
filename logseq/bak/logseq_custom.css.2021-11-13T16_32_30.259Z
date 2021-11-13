@@ -53,6 +53,6 @@ div[level="2"]{
 		margin: 20px; /* distance to top point */
 	}
 	.ls-block {
-		margin: 30px 12px 0px -2px;
+		margin: 10px 12px 0px -2px;
 		padding: 5px 8px 0px 0px;
 	}
