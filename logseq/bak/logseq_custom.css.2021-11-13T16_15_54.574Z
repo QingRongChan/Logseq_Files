@@ -34,7 +34,7 @@
 /* === tweak layout margins  ==== */
 	
 .blocks-container,.doc-mode {
-		margin: 100px -100;
+		margin: 100px 100;
 	}
 
 /* ============================== */
