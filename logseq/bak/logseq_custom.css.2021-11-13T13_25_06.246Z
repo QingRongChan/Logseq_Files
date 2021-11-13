@@ -80,7 +80,7 @@ div[data-refs-self*="kanban-w600"] > .block-children .block-content {
 /* SETTINGS: adjust width of the page and cards below*/
 
 	:root {
-		--main-container-width : 5800px; /* for the position of the main points in logseq pages
+		--main-container-width : 2800px; /* for the position of the main points in logseq pages
 		--mod-cards-width: 252px;
 		}  
 
