@@ -1,8 +1,8 @@
 Property::
-tags: #p-cards
+tags:: #p-cards
 
--
 - Take 1 =Basic Query== Status: ⭕
+  collapsed:: true
 	- Option 1-> Datomic
 	  collapsed:: true
 		- Noch in Testphase -> Datomic und Chanpony Query-Funktion
