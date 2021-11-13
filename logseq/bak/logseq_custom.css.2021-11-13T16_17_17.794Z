@@ -3,7 +3,7 @@
 
 	:root {
 		--main-container-width : 1800px; 
-		--mod-cards-width: 1000px;
+		--mod-cards-width: 1200px;
 		}  
 
 /* ============================= */
