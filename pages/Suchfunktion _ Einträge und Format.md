@@ -1,4 +1,5 @@
--
+title:: Suchfunktion : Einträge und Format
+
 - ==Liste der möglichen Suchkriterien für die Suchfunktion==
 	-
 	  <ins>W2-Ebene</ins>

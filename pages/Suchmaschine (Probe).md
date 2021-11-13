@@ -1,4 +1,3 @@
-Property::
 tags:: #p.cards
 
 - Take 1 =Basic Query== Status: ⭕
