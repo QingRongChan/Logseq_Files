@@ -1,12 +1,10 @@
 ## [[W2_Genutzte Freiheiten der AM]]
 	- ### [[W3_Konstruktive Freiheiten]]
 		- [[W4_Materialkomplexität]] #.v-numlist
-			-
-			  <mark class='blue'>[[W5_Kombination von unterschiedlichen Materialien , Hart-Weich Kombination]]</mark>
+			- <mark class='blue'>[[W5_Kombination von unterschiedlichen Materialien , Hart-Weich Kombination]]
 				- [[✅ Formänderung durch Volumenänderungen von Druckkammern]]
 				- [[✅ Positionierung von Körpern um die drei Raumachsen mittels drei rotatorische Bewegungen]]
-			-
-			  <mark class='blue'>[[W5_Material wird im linearelastischen Bereich deformiert]]</mark>
+			- [[W5_Material wird im linearelastischen Bereich deformiert]]
 				- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
 		- [[W4_Formkomplexität]] #.v-numlist
 			-
