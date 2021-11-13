@@ -3,13 +3,13 @@
   <mark class='grey'>[[W2_Genutzte Freiheiten der AM]]</mark>
 	-
 	  <mark class='blue'>[[W3_Konstruktive Freiheiten]]</mark>
-		- [[W4_Materialkomplexität]]
+		- [[W4_Materialkomplexität]] #.v-kanban
 			- [[W5_Kombination von unterschiedlichen Materialien , Hart-Weich Kombination]]
 				- [[✅ Formänderung durch Volumenänderungen von Druckkammern]]
 				- [[✅ Positionierung von Körpern um die drei Raumachsen mittels drei rotatorische Bewegungen]]
 			- [[W5_Material wird im linearelastischen Bereich deformiert]]
 				- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
-		- [[W4_Formkomplexität]]
+		- [[W4_Formkomplexität]] #.v-kanban
 			- Gedruckte Gewinde
 				- [[✅ Formänderung durch Volumenänderungen von Druckkammern]]
 			- Festkörpergelenke
