@@ -3,7 +3,7 @@
 	border-left: 0px solid;
 }
 .block-children [level="3"] {
-	border-left: 3px solid;
+	border-left: 1px solid;
 	border-left-color: #ff00005c;}
 .block-children [level="4"] {
 	border-left: 1px solid;
