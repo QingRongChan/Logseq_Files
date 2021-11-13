@@ -7,14 +7,18 @@
 			  <mark class='blue'>[[W5_Kombination von unterschiedlichen Materialien , Hart-Weich Kombination]]</mark>
 				- [[✅ Formänderung durch Volumenänderungen von Druckkammern]]
 				- [[✅ Positionierung von Körpern um die drei Raumachsen mittels drei rotatorische Bewegungen]]
-			- [[W5_Material wird im linearelastischen Bereich deformiert]]
+			-
+			  <mark class='blue'>[[W5_Material wird im linearelastischen Bereich deformiert]]</mark>
 				- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
 		- [[W4_Formkomplexität]] #.v-kanban
-			- Gedruckte Gewinde
+			-
+			  <mark class='blue'>Gedruckte Gewinde</mark>
 				- [[✅ Formänderung durch Volumenänderungen von Druckkammern]]
-			- Festkörpergelenke
+			-
+			  <mark class='blue'>Festkörpergelenke</mark>
 				- [[✅ Positionierung von Körpern um die drei Raumachsen mittels drei rotatorische Bewegungen]]
-			- Deformation in linearelastischen Bereich
+			-
+			  <mark class='blue'>Deformation in linearelastischen Bereich</mark>
 				- [[✅ Bewegung in zwei diskreten Zustände,Bistabiles System]]
 				- [[✅ Erwärmen von Oberflächen,Strukturen]]
 -
