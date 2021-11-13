@@ -104,8 +104,8 @@ div[data-refs-self*="kanban-w600"] > .block-children .block-content {
 	border-left-width: 2px;
 }
 
-	/* === auto headify top level bullets from logseq-topbullet_as_heading.css===*/
-	/* link: https://github.com/cannibalox/logseq-dark-hpx/blob/master/logseq-topbullet_as_heading.css */
+/* === auto headify top level bullets from logseq-topbullet_as_heading.css===*/
+/* link: https://github.com/cannibalox/logseq-dark-hpx/blob/master/logseq-topbullet_as_heading.css */
 
 #main-content-container [data-page-tags*="v-doc"] div[level="2"]  {
 	margin: 1em 0 1.3em 0;
@@ -123,6 +123,12 @@ div[data-refs-self*="kanban-w600"] > .block-children .block-content {
 			font-weight: 400;
 			font-size: 14px;
 	}
+/* === restyle properties ===*/
+	.properties{
+			font-family: Cairo;
+			font-weight: 300;
+			font-size: 14px;
+			text-transform: none
 
 
 
