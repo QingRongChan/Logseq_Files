@@ -100,7 +100,7 @@ div[data-refs-self*="kanban-w600"] > .block-children .block-content {
 		display:inline-block;
 		width: var(--mod-cards-width); 
 		position:absolute;
-		top: 550px;
+		top: 150px;
 		vertical-align: top;
 		margin-bottom: 20px;
 	}
