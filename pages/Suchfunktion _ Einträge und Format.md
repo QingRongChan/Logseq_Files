@@ -1,5 +1,4 @@
 title:: Suchfunktion : Einträge und Format
-tags:: p-cards
 
 - ==Liste der möglichen Suchkriterien für die Suchfunktion==
 	-
