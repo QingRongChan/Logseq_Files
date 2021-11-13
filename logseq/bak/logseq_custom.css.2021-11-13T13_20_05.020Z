@@ -84,7 +84,7 @@ div[data-refs-self*="kanban-w600"] > .block-children .block-content {
 		--mod-cards-width: 252px;
 		}  
 
-	.cp__sidebar-main-content {
+.cp__sidebar-main-content {
 			padding: 2rem 1.5rem;
 			margin: 0;
 			max-width: var(--main-container-width);
@@ -92,9 +92,6 @@ div[data-refs-self*="kanban-w600"] > .block-children .block-content {
 	.foldable-title {
 		max-width: var(--main-container-width);
 		} 
-	.embed-block .ls-block {
-		display: inline;
-	}
 
 /* ============================== */
 /* === tweak layout margins  ==== */
