@@ -45,7 +45,7 @@
 - [[W2_Fertigungsverfahren]]
 	- FDM möglich
 		- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
-- [[W2_Technology Readiness Level]] #.v-numlist <mark class='red'>Numlist</mark>
+- [[W2_Technology Readiness Level]] #.v-numlist
 	- [[TL1]]
 		- [[✅ Wirkprinzipien 2]]
 	- [[TL2]]
