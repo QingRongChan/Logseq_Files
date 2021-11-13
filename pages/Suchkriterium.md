@@ -61,13 +61,17 @@
 	-
 	  <mark class='blue'>[[TL5]]</mark>
 		- [[✅ Positionierung von Körpern um die drei Raumachsen mittels drei rotatorische Bewegungen]]
-	- [[TL6]]
+	-
+	  <mark class='blue'>[[TL6]]</mark>
 		- [[✅ Bewegungsablauf in einer Ebene kopieren]]
-	- [[TL7]]
+	-
+	  <mark class='blue'>[[TL7]] </mark>
 		- [[✅ Oberflächenformänderungen unter Krafteinleitung von einer panarenstrukturn zu einer Teilkugelform]]
-	- [[TL8]]
+	-
+	  <mark class='blue'>[[TL8]]</mark>
 		- [[✅ Änderung der Bauteilform durch seitwärtige Bewegung]]
-	- [[TL9]]
+	-
+	  <mark class='blue'></mark>
 	- [[TL10]]
 		- [[✅ Bewegung in zwei diskreten Zustände,Bistabiles System]]
 		- [[✅ Erwärmen von Oberflächen,Strukturen]]
