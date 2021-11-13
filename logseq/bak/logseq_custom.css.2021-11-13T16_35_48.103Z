@@ -46,7 +46,7 @@ div[level="2"]{
 		border-radius: 6px;
 		background-color: var(--ls-tertiary-background-color);
 		margin: 100px 150px 150px 100px; /* SPACE BETWEEN CARDS */
-		padding: 5em 0.5em;  /* CARDS BOARDER , width and height of one card*/
+		padding: 1em 0.5em;  /* CARDS BOARDER , width and height of one card*/
 	}
 	.block-children .ls-block {
 		border: 0px solid var(--ls-secondary-text-color);
