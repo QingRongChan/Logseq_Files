@@ -91,11 +91,4 @@ div[data-refs-self*="kanban-w600"] > .block-children .block-content {
 		}
 	.foldable-title {
 		max-width: var(--main-container-width);
-		} 
-
-/* ============================== */
-/* === tweak layout margins  ==== */
-	
-.blocks-container,.doc-mode {
-		margin: 0px 0;
-	}  
+		}   
