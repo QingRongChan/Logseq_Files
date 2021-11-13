@@ -46,7 +46,8 @@
 	- FDM möglich
 		- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
 - [[W2_Technology Readiness Level]] #.v-numlist
-	- [[TL1]]
+	-
+	  <mark class='ygreen'>[[TL1]]</mark>
 		- [[✅ Wirkprinzipien 2]]
 	- [[TL2]]
 		- [[✅ Kraft speichern]]
