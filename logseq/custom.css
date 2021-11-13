@@ -22,7 +22,7 @@
 		display:inline-block;
 		width: var(--mod-cards-width); 
 		position:absolute;
-		top: 20px;
+		top: 10px;   /* distance to top point */
 		vertical-align: top;
 		margin-bottom: 100px;
 	}
