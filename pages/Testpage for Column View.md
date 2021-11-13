@@ -17,7 +17,8 @@
 	- seifbserjkfnwe
 	- efiusnefujn
 -
-  <mark class='blue'>Auxetic Structure 2</mark>
+  <mark class='blue'>Auxetic Structure 2</mark> 
+  collapsed:: true
 	- [Auxetic Structure 2](https://www.thingiverse.com/thing:881094)
 	- [[✅ Oberflächenformänderungen unter Krafteinleitung von einer panarenstrukturn zu einer Teilkugelform]]
 -
