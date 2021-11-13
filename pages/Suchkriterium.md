@@ -1,9 +1,8 @@
 tags:: p-cards
 
--
-  <mark class='grey'>[[W2_Genutzte Freiheiten der AM]]</mark>
+## [[W2_Genutzte Freiheiten der AM]]
 	- [[W3_Konstruktive Freiheiten]]
-		- [[W4_Materialkomplexität]] #.v-numlist #kanban
+		- [[W4_Materialkomplexität]] #.v-numlist
 			-
 			  <mark class='blue'>[[W5_Kombination von unterschiedlichen Materialien , Hart-Weich Kombination]]</mark>
 				- [[✅ Formänderung durch Volumenänderungen von Druckkammern]]
@@ -11,7 +10,7 @@ tags:: p-cards
 			-
 			  <mark class='blue'>[[W5_Material wird im linearelastischen Bereich deformiert]]</mark>
 				- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
-		- [[W4_Formkomplexität]] #.v-numlist #kanban
+		- [[W4_Formkomplexität]] #.v-numlist
 			-
 			  <mark class='blue'>Gedruckte Gewinde</mark>
 				- [[✅ Formänderung durch Volumenänderungen von Druckkammern]]
@@ -23,8 +22,7 @@ tags:: p-cards
 				- [[✅ Bewegung in zwei diskreten Zustände,Bistabiles System]]
 				- [[✅ Erwärmen von Oberflächen,Strukturen]]
 -
--
-  <mark class='grey'>[[W2_Quelle]]</mark> #.v-numlist
+## [[W2_Quelle]] #.v-numlist #.v-kanban-wide
 	-
 	  <mark class='blue'>Poisson Induced Bending Actuator for Soft Robotic System</mark>
 		- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
@@ -66,13 +64,11 @@ tags:: p-cards
 	  <mark class='blue'>Characterization of Electrical Heating Performance of CFDM 3D-Printed Graphene/Polylactic Acid (PLA) Horseshoe Pattern with Different 3D Printing Directions</mark>
 		- [[@Plasticity]]
 		- [[✅ Wirkprinzipien 2]]
--
-  <mark class='grey'>[[W2_Fertigungsverfahren]]</mark> #.v-kanban-wide
+## [[W2_Fertigungsverfahren]] #.v-kanban-wide
 	-
 	  <mark class='blue'>FDM möglich</mark>
 		- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
--
-  <mark class='grey'>[[W2_Technology Readiness Level]]</mark> #.v-numlist #.v-kanban-wide
+## [[W2_Technology Readiness Level]] #.v-numlist #.v-kanban-wide
 	-
 	  <mark class='blue'>[[TL1]]</mark>
 		- [[✅ Wirkprinzipien 2]]
