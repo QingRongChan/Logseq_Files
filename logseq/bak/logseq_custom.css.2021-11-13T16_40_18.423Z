@@ -22,7 +22,7 @@
 		display:inline-block;
 		width: var(--mod-cards-width); 
 		position:absolute;
-		top: 20px;
+		top: 10px;
 		vertical-align: top;
 		margin-bottom: 100px;
 	}
@@ -34,7 +34,7 @@
 /* === tweak layout margins  ==== */
 	
 .blocks-container,.doc-mode {
-		margin: 0px 0;
+		margin: 10px 0;
 	}
 
 /* ============================== */
