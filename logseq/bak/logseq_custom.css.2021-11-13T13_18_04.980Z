@@ -83,12 +83,3 @@ div[data-refs-self*="kanban-w600"] > .block-children .block-content {
 		--main-container-width : 1800px; /* for the position of the main points in logseq pages
 		--mod-cards-width: 252px;
 		}  
-
-.cp__sidebar-main-content {
-			padding: 2rem 1.5rem;
-			margin: 0;
-			max-width: var(--main-container-width);
-		}
-	.foldable-title {
-		max-width: var(--main-container-width);
-		}   
