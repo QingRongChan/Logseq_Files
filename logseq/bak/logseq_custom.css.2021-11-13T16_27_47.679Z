@@ -3,7 +3,7 @@
 
 	:root {
 		--main-container-width : 1800px; 
-		--mod-cards-width: 200px;
+		--mod-cards-width: 1200px;
 		}  
 
 /* ============================= */
@@ -18,7 +18,7 @@
 	.foldable-title {
 		max-width: var(--main-container-width);
 		}   
-	div[level="2"]{
+	div[level="1"]{
 		display:inline-block;
 		width: var(--mod-cards-width); 
 		position:absolute;
@@ -40,7 +40,7 @@
 /* ============================== */
 /* ======== cards look ========== */
 	
-div[level="2"]{
+div[level="1"]{
 		box-shadow: 2px 2px 3px #0000003b;
 		border: 5px solid black;
 		border-radius: 6px;
