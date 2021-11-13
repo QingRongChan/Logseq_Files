@@ -1,6 +1,7 @@
 - [[W2_Quelle]]
 	-
 	  <mark class='blue'>Poisson Induced Bending Actuator for Soft Robotic System</mark>
+	  background-color:: #787f97
 	-
 	  <mark class='blue'>Compliant Morphing Wing</mark>
 	-
