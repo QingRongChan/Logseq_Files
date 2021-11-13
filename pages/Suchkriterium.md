@@ -61,7 +61,7 @@
 	-
 	  <mark class='blue'>FDM möglich</mark>
 		- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
-## [[W2_Technology Readiness Level]] #.v-numlist #.v-kanban-wide
+## [[W2_Technology Readiness Level]]  #.v-kanban-wide
 	-
 	  <mark class='blue'>[[TL1]]</mark>
 		- [[✅ Wirkprinzipien 2]]
