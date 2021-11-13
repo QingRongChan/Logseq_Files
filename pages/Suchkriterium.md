@@ -71,8 +71,9 @@
 	  <mark class='blue'>[[TL8]]</mark>
 		- [[✅ Änderung der Bauteilform durch seitwärtige Bewegung]]
 	-
-	  <mark class='blue'></mark>
-	- [[TL10]]
+	  <mark class='blue'>[[TL9]]</mark>
+	-
+	  <mark class='blue'>[[TL10]]</mark>
 		- [[✅ Bewegung in zwei diskreten Zustände,Bistabiles System]]
 		- [[✅ Erwärmen von Oberflächen,Strukturen]]
 -
