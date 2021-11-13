@@ -10,7 +10,7 @@
 	border-left-color: #ec87225e;}
 .block-children [level="5"] {
 	border-left: 3px solid;
-	border-left-color: #65d95b7a ;} /* took the color from level 6 for better optic, green -> yellow /*
+	border-left-color: #65d95b7a ;}
 .block-children [level="6"] {
 	border-left: 3px solid;
 	border-left-color: #ffff0052;}
