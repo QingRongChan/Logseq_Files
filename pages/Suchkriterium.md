@@ -15,7 +15,7 @@
 				- [[✅ Bewegung in zwei diskreten Zustände,Bistabiles System]]
 				- [[✅ Erwärmen von Oberflächen,Strukturen]]
 -
-## [[W2_Quelle]]
+## [[W2_Quelle]] #.v-kanban-wide
 	-
 	  <mark class='blue'>Poisson Induced Bending Actuator for Soft Robotic System</mark>
 		- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
@@ -57,7 +57,7 @@
 	  <mark class='blue'>Characterization of Electrical Heating Performance of CFDM 3D-Printed Graphene/Polylactic Acid (PLA) Horseshoe Pattern with Different 3D Printing Directions</mark>
 		- [[@Plasticity]]
 		- [[✅ Wirkprinzipien 2]]
-## [[W2_Fertigungsverfahren]] #.v-kanban-wide
+## [[W2_Fertigungsverfahren]]
 	-
 	  <mark class='blue'>FDM möglich</mark>
 		- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
