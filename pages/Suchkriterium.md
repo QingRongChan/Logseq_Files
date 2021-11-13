@@ -42,10 +42,12 @@
 	- TestLiterature
 		- [[@Plasticity]]
 		- [[✅ Wirkprinzipien 2]]
-- [[W2_Fertigungsverfahren]]
+-
+  <mark class='grey'>[[W2_Fertigungsverfahren]]</mark>
 	- FDM möglich
 		- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
-- [[W2_Technology Readiness Level]] #.v-numlist
+-
+  <mark class='grey'>[[W2_Technology Readiness Level]]</mark> #.v-numlist
 	-
 	  <mark class='blue'>[[TL1]]</mark>
 		- [[✅ Wirkprinzipien 2]]
