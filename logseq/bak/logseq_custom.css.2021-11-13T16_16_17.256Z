@@ -22,8 +22,8 @@
 		display:inline-block;
 		width: var(--mod-cards-width); 
 		position:absolute;
-		top: 100px;
-		vertical-align: top;
+		top: 10px;
+		
 		margin-bottom: 50px;
 	}
 	.embed-block .ls-block {
