@@ -1,9 +1,7 @@
 - [[W2_Quelle]]
 	-
 	-
-	  <mark class='blue'>Compliant Morphing Wing</mark>
 	-
-	  <mark class='blue'>A New Concept Compliant Platform with Spatial Mobility and Remote Actuation</mark>
 	-
 	  <mark class='blue'>Auxetic Structure</mark>
 	-
@@ -25,3 +23,7 @@
 	  <mark class='blue'>Characterization of Electrical Heating Performance of CFDM 3D-Printed Graphene/Polylactic Acid (PLA) Horseshoe Pattern with Different 3D Printing Directions </mark>
 -
   <mark class='blue'>Poisson Induced Bending Actuator for Soft Robotic System</mark>
+-
+  <mark class='blue'>Compliant Morphing Wing</mark>
+-
+  <mark class='blue'>A New Concept Compliant Platform with Spatial Mobility and Remote Actuation</mark>
