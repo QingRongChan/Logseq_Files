@@ -74,8 +74,7 @@ collapsed:: true
 	  <mark class='blue'>FDM möglich</mark>
 	  collapsed:: true
 		- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
-## [[W2_Technology Readiness Level]]
-collapsed:: true
+- ## [[W2_Technology Readiness Level]]
 	-
 	  <mark class='blue'>[[TL1]]</mark>
 		- [[✅ Wirkprinzipien 2]]
@@ -104,7 +103,6 @@ collapsed:: true
 	  <mark class='blue'>[[TL9]]</mark>
 	-
 	  <mark class='blue'>[[TL10]]</mark>
-	  collapsed:: true
 		- [[✅ Bewegung in zwei diskreten Zustände,Bistabiles System]]
 		- [[✅ Erwärmen von Oberflächen,Strukturen]]
 -
