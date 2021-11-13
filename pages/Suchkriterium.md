@@ -19,7 +19,7 @@
 				- [[✅ Erwärmen von Oberflächen,Strukturen]]
 -
 -
-  <mark class='grey'>[[W2_Quelle]]</mark> #kanban-w100
+  <mark class='grey'>[[W2_Quelle]]</mark> #kanbanw100
 	-
 	  <mark class='blue'>Poisson Induced Bending Actuator for Soft Robotic System</mark>
 		- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
