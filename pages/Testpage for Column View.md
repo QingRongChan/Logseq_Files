@@ -1,5 +1,3 @@
-tags:: #p-cards
-
 - [[W2_Quelle]]
 	-
 	  <mark class='blue'>Poisson Induced Bending Actuator for Soft Robotic System</mark>
