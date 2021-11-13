@@ -1,9 +1,10 @@
 title:: Suchfunktion : Einträge und Format
-tags:: p-cards
+tags:: p-cards.c2
 
 - ==Liste der möglichen Suchkriterien für die Suchfunktion==
 	-
 	  <ins>W2-Ebene</ins>
+	  collapsed:: true
 		- genutzte-freiheiten-der-am
 		  collapsed:: true
 			- [[W3_Konstruktive Freiheiten]]
@@ -36,11 +37,13 @@ tags:: p-cards
 			- FDM möglich
 	-
 	  <ins>W3-Ebene</ins>
+	  collapsed:: true
 		- konstruktive-freiheiten
 			- [[W4_Materialkomplexität]]
 			- [[W4_Formkomplexität]]
 	-
 	  <ins>W4-Ebene</ins>
+	  collapsed:: true
 		- materialkomplexität
 			- [[W5_Kombination von unterschiedlichen Materialien , Hart-Weich Kombination]]
 			- [[W5_Material wird im linearelastischen Bereich deformiert]]
@@ -48,7 +51,6 @@ tags:: p-cards
 			- Gedruckte Gewinde
 			- Festkörpergelenke
 			- Deformation in linearelastischen Bereich
--
 - ==Suchfunktion : Format==
 	- Starten mit dem Befehl "/query"
 	- Auf Enter drücken -> "{{query }}"
