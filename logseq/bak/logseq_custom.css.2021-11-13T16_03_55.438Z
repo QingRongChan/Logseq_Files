@@ -35,7 +35,7 @@
 /* === tweak layout margins  ==== */
 	
 .blocks-container,.doc-mode {
-		margin: 0px 0;
+		margin: 5px 100;
 	}
 
 /* ============================== */
@@ -43,7 +43,7 @@
 	
 div[level="2"]{
 		box-shadow: 2px 2px 3px #0000003b;
-		border: 5px solid black;
+		border: 1px solid black;
 		border-radius: 6px;
 		background-color: var(--ls-tertiary-background-color);
 		margin: 0px 15px 15px 0px; /* SPACE BETWEEN CARDS */
