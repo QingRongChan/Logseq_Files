@@ -79,7 +79,7 @@ div[data-refs-self*="kanban-w600"] > .block-children .block-content {
 /*===================================================*/     
 /*= highlight current path by cannnibalox v20210220 =*/ 
 /*====== option: (:hover) to (:focus-whithin) =======*/
-/*
+
 .ls-block .bullet{
     background-color:#dd0707;
 }
@@ -150,7 +150,7 @@ div[data-refs-self*="kanban-w600"] > .block-children .block-content {
 		margin: -20px 0px 0px -4px;
 }
 
-/*
+
 
 
 /* ======================================================== */
