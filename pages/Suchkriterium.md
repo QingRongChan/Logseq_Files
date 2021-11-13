@@ -1,7 +1,7 @@
 - Usage of .v-kanban,  .v-numlist
 - [[W2_Genutzte Freiheiten der AM]]
 	- [[W3_Konstruktive Freiheiten]]
-		- [[W4_Materialkomplexität]] #.v-kanban <mark class='red'>Normal Kanban</mark>
+		- [[W4_Materialkomplexität]] #.v-kanban
 			- [[W5_Kombination von unterschiedlichen Materialien , Hart-Weich Kombination]]
 				- [[✅ Formänderung durch Volumenänderungen von Druckkammern]]
 				- [[✅ Positionierung von Körpern um die drei Raumachsen mittels drei rotatorische Bewegungen]]
@@ -55,9 +55,11 @@
 	-
 	  <mark class='blue'>[[TL3]]</mark>
 		- [[✅ Formänderung durch Volumenänderungen von Druckkammern]]
-	- [[TL4]]
+	-
+	  <mark class='blue'>[[TL4]]</mark>
 		- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
-	- [[TL5]]
+	-
+	  <mark class='blue'>[[TL5]]</mark>
 		- [[✅ Positionierung von Körpern um die drei Raumachsen mittels drei rotatorische Bewegungen]]
 	- [[TL6]]
 		- [[✅ Bewegungsablauf in einer Ebene kopieren]]
