@@ -1,6 +1,8 @@
 - Usage of .v-kanban,  .v-numlist
-- [[W2_Genutzte Freiheiten der AM]]
-	- [[W3_Konstruktive Freiheiten]]
+-
+  <mark class='grey'>[[W2_Genutzte Freiheiten der AM]]</mark>
+	-
+	  <mark class='blue'>[[W3_Konstruktive Freiheiten]]</mark>
 		- [[W4_Materialkomplexität]] #.v-kanban-wide
 			- [[W5_Kombination von unterschiedlichen Materialien , Hart-Weich Kombination]]
 				- [[✅ Formänderung durch Volumenänderungen von Druckkammern]]
