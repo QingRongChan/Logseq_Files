@@ -1,5 +1,6 @@
--
-  <mark class='grey'>[[W2_Genutzte Freiheiten der AM]]</mark>
+tags:: v-doc
+
+- [[W2_Genutzte Freiheiten der AM]]
 	- [[W3_Konstruktive Freiheiten]]
 		- [[W4_Materialkomplexität]] #.v-numlist #kanban
 			-

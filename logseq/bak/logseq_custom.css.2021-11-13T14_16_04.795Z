@@ -1,0 +1,232 @@
+/* ==== colorful indent levels ===*/
+.block-children {
+	border-left: 0px solid;
+}
+.block-children [level="3"] {
+	border-left: 3px solid;     /*Setting for thickness of line*/
+	border-left-color: #ff00005c;}
+.block-children [level="4"] {
+	border-left: 3px solid;
+	border-left-color: #ec87225e;}
+.block-children [level="5"] {
+	border-left: 3px solid;
+	border-left-color: #65d95b7a ;} /* took the color from level 6 for better optic, green -> yellow /*
+.block-children [level="6"] {
+	border-left: 3px solid;
+	border-left-color: #ffff0052;}
+.block-children [level="7"] {
+	border-left: 3px solid;
+	border-left-color: #2ca0df5e;}
+.block-children [level="8"] {
+	border-left: 3px solid;
+	border-left-color: #9f8af061;}
+.block-children [level="9"] {
+	border-left: 3px solid;
+	border-left-color: #f15bf74f;}
+/* ==== fix spacing - TWEAK VALUES ! ===*/
+.ls-block { margin:-2px 0px -5px -1px !important; padding: 5px 1px !important;}
+
+
+/* css kanban block view for child blocks by cannibalox v20210220 */
+/* use: inline tag #kanban, #kanban-small or #kanban-wXXX    */
+/* try:  #kanban-w200,#kanban-w300, #kanban-w400             */
+/* until now only settings in kanban work. kanban-wXXX does not work */
+
+div[data-refs-self*="kanban"] > .block-children {
+	display: inline-flex;
+	position: relative;
+	overflow-x: auto;
+	overflow-y: hidden;
+	margin: 10px;
+	}
+div[data-refs-self*="kanban"] >.block-children > div {
+	display: inline-block;
+	width: 400px; 
+	padding-right: 5px;
+	}
+
+/* #kanbansmall : smaller font with hover zoom */
+div[data-refs-self*="kanban-small"] > .block-children .block-content {
+	font-size: 11px;
+	font-weight: 300;
+}
+div[data-refs-self*="kanban-small"] > .block-children .block-content:hover {
+	font-size: 14px !important;
+	min-width: 100px;
+	margin: 0 10px;
+}
+/* #kanban-w[100-300] : force width of the columns */
+div[data-refs-self*="kanban-w100"] > .block-children .block-content {
+	width:100px;
+}
+div[data-refs-self*="kanban-w200"] > .block-children .block-content {
+	width:200px;
+}
+div[data-refs-self*="kanban-w300"] > .block-children .block-content {
+	width:300px;
+}
+div[data-refs-self*="kanban-w300"] > .block-children {
+	border: 1px solid var(--ls-block-bullet-border-color);
+	padding: 10px 0;
+}
+div[data-refs-self*="kanban-w400"] > .block-children .block-content {
+	width:380px; 
+}
+div[data-refs-self*="kanban-w600"] > .block-children .block-content {
+	width:600px;
+}
+
+/*===================================================*/     
+/*= highlight current path by cannnibalox v20210220 =*/ 
+/*====== option: (:hover) to (:focus-whithin) =======*/
+
+.ls-block .bullet{
+    background-color:#dd0707;
+}
+
+.ls-block:not(:hover) .bullet{
+    background-color:var(--ls-block-bullet-color);
+}
+
+/*--- highlight indentation line - remove if not useful ---*/
+/*---- tweak left: and top: offset to match yout theme ----*/
+.blocks-container > div:not(:first-child) .ls-block:hover > div:first-child .bullet:before{
+    content : "└─";
+	color:#6e2222;
+	display: inline-block;
+	left: -20px;
+	top: -10px;
+	width: 30px;
+	position: relative;
+}
+.ls-block > .block-children:hover {
+	border-left-color:#6e2222;
+	border-left-width: 2px;
+}
+
+	/* === auto headify top level bullets from logseq-topbullet_as_heading.css===*/
+	/* link: https://github.com/cannibalox/logseq-dark-hpx/blob/master/logseq-topbullet_as_heading.css */
+
+#main-content-container [data-page-tags*="v-doc"] div[level="2"]  {
+	margin: 1em 0 1.3em 0;
+}
+#main-content-container [data-page-tags*="v-doc"] div[level="2"] > .flex-1.flex-row .block-content, div[level="2"]:not(.pre-block) > .flex-1.flex-row .editor-wrapper textarea {
+			font-family: Barlow;
+			font-weight: 600;
+			font-size: 24px;
+			margin: -0.3em 0 0.3em 0em;
+			text-transform: uppercase; /* capitalize */
+	} 
+
+	div[id="journals"] div[level="2"] > .flex-1.flex-row {
+			font-family: Cairo;
+			font-weight: 400;
+			font-size: 14px;
+	}
+
+
+
+/* ======================================================== */
+/* PAGE VIEW MOD : CARDS - css by cannibalox v0.3 20210220  */
+/* usage: add 'tags: #p-cards` inside the front matter      */
+/* optional: `#p-cards.c2` to `#p-cards.c6` to set the      */ 
+/* number of cards (.c2 = 2 cards, .c3 = 3 cards, etc...)   */
+/* ======================================================== */
+/* SETTINGS: adjust width of the page and cards below       */
+
+:root {
+	--cards-container-width : 98vw; /* sets the width of the page */
+	--max-cards-per-row: 5; /* default to 5 cards if nothing is specified */
+	--mod-cards-width: calc((var(--cards-container-width) - 15%) / var(--max-cards-per-row));
+}
+
+	/* ============================= */
+	/* ==== columns view layout ==== */
+	/* ====================-======== */
+	.cp__sidebar-main-content-container {
+		display: flex;  
+		justify-content:start;
+	} 
+
+	[data-page-tags*="p-cards"] .page-blocks-inner{
+		padding: 2rem 1.5rem;
+		margin: 0 00px;
+		width: var(--cards-container-width);
+	}
+
+	[data-page-tags*="p-cards"] div[level="2"]:not(.pre-block) {
+		display: inline-block;
+		width: var(--mod-cards-width);
+		position:absolute;
+		top: 10px;
+		vertical-align: top;
+		margin-bottom: 20px;
+	}
+
+	/* define cards size with .cX*/
+	[data-page-tags*="p-cards.c2"] div[level="2"]:not(.pre-block) {
+		width: calc((var(--cards-container-width) - 15%) / 2);
+	}
+	[data-page-tags*="p-cards.c3"] div[level="2"]:not(.pre-block) {
+		width: calc((var(--cards-container-width) - 15%) / 3);
+	}
+	[data-page-tags*="p-cards.c4"] div[level="2"]:not(.pre-block) {
+		width: calc((var(--cards-container-width) - 15%) / 4);
+	}
+	[data-page-tags*="p-cards.c5"]  div[level="2"]:not(.pre-block) {
+		width: calc((var(--cards-container-width) - 15%) / 5);
+	}
+	[data-page-tags*="p-cards.c6"]  div[level="2"]:not(.pre-block) {
+		width: calc((var(--cards-container-width) - 10%) / 6);
+	}
+
+	[data-page-tags*="p-cards"] .embed-block .ls-block {
+		display: inline;
+	}
+	div[data-page-tags*="p-cards"] .custom-query {
+		width: calc(var(--mod-cards-width) - calc(240px / var(--max-cards-per-row)));
+	}
+	div[data-page-tags*="p-cards"] .custom-query .flex.flex-col{
+		width: calc(var(--mod-cards-width) - 130px);
+	}
+
+	/* === tweak layout margins  ==== */
+		
+	div[data-page-tags*="p-cards"] .blocks-container,.doc-mode {
+		margin: 0px 0;
+	}
+
+	/* ============================== */
+	/* ======== cards look ========== */
+	/* ============================== */
+		div[data-page-tags*="p-cards"] div[level="2"]:not(.pre-block) {
+			box-shadow: 2px 2px 3px #0000003b;
+			border: 1px solid black;
+			border-radius: 6px;
+			background-color: var(--ls-tertiary-background-color);
+			margin: 0px 15px 15px 0px; /* SPACE BETWEEN CARDS */
+			padding: 1em 0.5em;  /* CARDS BOARDER */
+		}
+		div[data-page-tags*="p-cards"] .block-children .ls-block {
+			border: 0px solid var(--ls-secondary-text-color);
+			margin: 0px;
+		}
+		div[data-page-tags*="p-cards"] .ls-block {
+			margin: 0px 12px 0px -2px;
+			padding: 5px 8px 0px 0px;
+		}
+	/* ======== don't style references ========== */
+		.cp__sidebar-main-content .references {
+			max-width: var(--main-container-width);
+		}
+		div[data-page-tags*="p-cards"] .references div[level="2"]{
+			box-shadow: initial;
+			border:initial;
+			background-color: initial;
+		}
+	/* ======== fix properties block width ======== */
+	.block-content .pre-block.bg-base-2 {
+		width: fit-content;
+		padding-right:0.75em;
+	}
+/*============ end of view pages as cards mod ================================*/
