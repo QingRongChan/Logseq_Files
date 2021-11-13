@@ -24,7 +24,7 @@
 	border-left: 1px solid;
 	border-left-color: #f15bf74f;}
 /* ==== fix spacing - TWEAK VALUES ! ===*/
-.ls-block { margin:-2px 0px -5px -1px !important; padding: 5px 1px !important;}
+.ls-block { margin:-2px 0px -5px -1px !important; padding: 5px 111px !important;}
 
 
 /* css kanban block view for child blocks by cannibalox v20210220 */
