@@ -39,11 +39,13 @@
 		- [[✅ Oberflächenformänderungen unter Krafteinleitung von einer panarenstrukturn zu einer Teilkugelform]]
 	-
 	  <mark class='blue'>Festo Didactic</mark>
-		-
+		- [Festo-Didactic](https://www.festo-didactic.com/de-de/lernsysteme/technik-fuer-allgemeinbildende-schulen/fin-ray-bastelbogen.htm?fbid=ZGUuZGUuNTQ0LjEzLjE4LjE0MDMuODUyOA)
 		- [[✅ Änderung der Bauteilform durch seitwärtige Bewegung]]
-	- [Thingsverse](https://www.thingiverse.com/thing:1487390)
+	-
+	  <mark class='blue'>Thingsverse</mark>
+		- [Thingsverse](https://www.thingiverse.com/thing:1487390)
 		- [[✅ Änderung der Bauteilform durch seitwärtige Bewegung]]
-	- 3D printing of twisting and rotational bistable structures with tuning elements
+	-
 		- [[✅ Bewegung in zwei diskreten Zustände,Bistabiles System]]
 	- Characterizing the Electrical Properties of Anisotropic, 3D-Printed Conductive Sheets for Sensor Applications
 		- [[✅ Erwärmen von Oberflächen,Strukturen]]
