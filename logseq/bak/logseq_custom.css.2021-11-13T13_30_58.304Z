@@ -76,3 +76,41 @@ div[data-refs-self*="kanban-w600"] > .block-children .block-content {
 	width:600px;
 }
 
+/* columns view css mod by cannibalox v0.2  20210131 */
+/* SETTINGS: adjust width of the page and cards below*/
+
+	:root {
+		--main-container-width : 2000px; /* for the position of the main points in logseq pages
+		--mod-cards-width: 252px;
+		}  
+
+/* ============================= */
+/* ==== columns view layout ==== */
+/* ====================-======== */
+
+	.cp__sidebar-main-content {
+			padding: 2rem 1.5rem;
+			margin: 0;
+			max-width: var(--main-container-width);
+		}
+	.foldable-title {
+		max-width: var(--main-container-width);
+		}   
+	div[data-refs-self*=".v-kanban-wide"] >.block-children > div 
+		display:inline-block;
+		width: var(--main-container-width); 
+		position:absolute;
+		top: 0px;
+		vertical-align: top;
+		margin-bottom: 20px;
+	}
+	.embed-block .ls-block {
+		display: inline;
+	}
+
+/* ============================== */
+/* === tweak layout margins  ==== */
+
+	.blocks-container,.doc-mode {
+		margin: 0px 0;
+	}	
