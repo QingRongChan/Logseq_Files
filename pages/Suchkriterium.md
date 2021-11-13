@@ -20,6 +20,7 @@
 - ## [[W2_Quelle]]
 	-
 	  <mark class='blue'>Poisson Induced Bending Actuator for Soft Robotic System</mark>
+	  collapsed:: true
 		- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
 -
 ## [[W2_Fertigungsverfahren]]
