@@ -8,7 +8,6 @@
 	- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
 -
   <mark class='blue'>A New Concept Compliant Platform with Spatial Mobility and Remote Actuation</mark>
-  collapsed:: true
 	- [[✅ Positionierung von Körpern um die drei Raumachsen mittels drei rotatorische Bewegungen]]
 -
   <mark class='blue'>Auxetic Structure</mark>
