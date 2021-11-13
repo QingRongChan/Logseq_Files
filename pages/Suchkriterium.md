@@ -1,5 +1,5 @@
 -
-  <mark class='grey'>[[W2_Genutzte Freiheiten der AM]]</mark> #.v-column
+  <mark class='grey'>[[W2_Genutzte Freiheiten der AM]]</mark>
 	- [[W3_Konstruktive Freiheiten]]
 		- [[W4_Materialkomplexität]] #.v-kanban
 			-
