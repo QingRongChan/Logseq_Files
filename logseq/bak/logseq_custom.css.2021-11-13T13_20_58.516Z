@@ -92,7 +92,7 @@ div[data-refs-self*="kanban-w600"] > .block-children .block-content {
 	.foldable-title {
 		max-width: var(--main-container-width);
 		} 
-	div[data-refs-self*="kanban"]{
+	div[level="2"]{
 		display:inline-block;
 		width: var(--mod-cards-width); 
 		position:absolute;
