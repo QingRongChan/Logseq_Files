@@ -4,7 +4,7 @@
 
 	:root {
 		--main-container-width : 1800px; 
-		--mod-cards-width: 1200px;
+		--mod-cards-width: 1800px;
 		}  
 
 /* ============================= */
