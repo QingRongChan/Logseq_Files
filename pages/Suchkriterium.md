@@ -49,7 +49,8 @@
 	-
 	  <mark class='blue'>[[TL1]]</mark>
 		- [[✅ Wirkprinzipien 2]]
-	- [[TL2]]
+	-
+	  <mark class='blue'>[[TL2]]</mark>
 		- [[✅ Kraft speichern]]
 	- [[TL3]]
 		- [[✅ Formänderung durch Volumenänderungen von Druckkammern]]
