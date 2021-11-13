@@ -31,9 +31,9 @@
 		- [[✅ Positionierung von Körpern um die drei Raumachsen mittels drei rotatorische Bewegungen]]
 	-
 	  <mark class='blue'>Auxetic Structure</mark>
-		- (https://www.youtube.com/watch?v=XP5Fk-lHvK0&ab_channel=MITMediaLab)
+		- [Auxetic Structure](https://www.youtube.com/watch?v=XP5Fk-lHvK0&ab_channel=MITMediaLab)
 		- [[✅ Bewegungsablauf in einer Ebene kopieren]]
-	- [Auxetic Structure 2](https://www.thingiverse.com/thing:881094)
+	-
 		- [[✅ Oberflächenformänderungen unter Krafteinleitung von einer panarenstrukturn zu einer Teilkugelform]]
 	- [Festo-Didactic](https://www.festo-didactic.com/de-de/lernsysteme/technik-fuer-allgemeinbildende-schulen/fin-ray-bastelbogen.htm?fbid=ZGUuZGUuNTQ0LjEzLjE4LjE0MDMuODUyOA)
 		- [[✅ Änderung der Bauteilform durch seitwärtige Bewegung]]
