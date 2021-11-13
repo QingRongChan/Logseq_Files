@@ -19,10 +19,12 @@
 				- [[✅ Erwärmen von Oberflächen,Strukturen]]
 -
 -
-  <mark class='grey'>[[W2_Quelle]]</mark> #.v-kanban-wide
-	- Poisson Induced Bending Actuator for Soft Robotic System
+  <mark class='grey'>[[W2_Quelle]]</mark> ""
+	-
+	  <mark class='blue'>Poisson Induced Bending Actuator for Soft Robotic System</mark>
 		- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
-	- Compliant Morphing Wing
+	-
+	  <mark class='blue'>Compliant Morphing Wing</mark>
 		- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
 	- A New Concept Compliant Platform with Spatial Mobility and Remote Actuation
 		- [[✅ Positionierung von Körpern um die drei Raumachsen mittels drei rotatorische Bewegungen]]
