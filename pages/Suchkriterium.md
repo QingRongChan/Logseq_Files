@@ -7,7 +7,7 @@
 				- [[✅ Positionierung von Körpern um die drei Raumachsen mittels drei rotatorische Bewegungen]]
 			- [[W5_Material wird im linearelastischen Bereich deformiert]]
 				- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
-		- [[W4_Formkomplexität]] #.v-kanban-small <mark class='red'>Small Kanban</mark>
+		- [[W4_Formkomplexität]] #.v-kanban-small
 			- Gedruckte Gewinde
 				- [[✅ Formänderung durch Volumenänderungen von Druckkammern]]
 			- Festkörpergelenke
@@ -16,7 +16,7 @@
 				- [[✅ Bewegung in zwei diskreten Zustände,Bistabiles System]]
 				- [[✅ Erwärmen von Oberflächen,Strukturen]]
 -
-- [[W2_Quelle]] #.v-kanban-wide <mark class='red'>Wide Kanban</mark>
+- [[W2_Quelle]] #.v-kanban-wide
 	- Poisson Induced Bending Actuator for Soft Robotic System
 		- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
 	- Compliant Morphing Wing
@@ -52,7 +52,8 @@
 	-
 	  <mark class='blue'>[[TL2]]</mark>
 		- [[✅ Kraft speichern]]
-	- [[TL3]]
+	-
+	  <mark class='blue'>[[TL3]]</mark>
 		- [[✅ Formänderung durch Volumenänderungen von Druckkammern]]
 	- [[TL4]]
 		- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
