@@ -96,7 +96,7 @@ div[data-refs-self*="kanban-w600"] > .block-children .block-content {
 		max-width: var(--main-container-width);
 		}   
 
-	div[data-refs-self*=".v-column"]{
+	div[data-refs-self*=".v-column"] >.block-children > div {
 		display:inline-block;
 		width: var(--mod-cards-width); 
 		position:absolute;
@@ -118,7 +118,7 @@ div[data-refs-self*="kanban-w600"] > .block-children .block-content {
 /* ============================== */
 /* ======== cards look ========== */
 	
-div[data-refs-self*=".v-column"]{
+div[data-refs-self*=".v-column"] >.block-children > div {
 		box-shadow: 2px 2px 3px #0000003b;
 		border: 1px solid black;
 		border-radius: 6px;
