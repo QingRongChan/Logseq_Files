@@ -12,7 +12,7 @@
 
 	.cp__sidebar-main-content {
 			padding: 2rem 1.5rem;
-			margin: 100;
+			margin: 10;
 			max-width: var(--main-container-width);
 		}
 	.foldable-title {
