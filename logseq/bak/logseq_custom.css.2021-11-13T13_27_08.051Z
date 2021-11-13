@@ -1,0 +1,116 @@
+/* ==== colorful indent levels ===*/
+.block-children {
+	border-left: 0px solid;
+}
+.block-children [level="3"] {
+	border-left: 3px solid;     /*Setting for thickness of line*/
+	border-left-color: #ff00005c;}
+.block-children [level="4"] {
+	border-left: 3px solid;
+	border-left-color: #ec87225e;}
+.block-children [level="5"] {
+	border-left: 3px solid;
+	border-left-color: #65d95b7a ;} /* took the color from level 6 for better optic, green -> yellow /*
+.block-children [level="6"] {
+	border-left: 3px solid;
+	border-left-color: #ffff0052;}
+.block-children [level="7"] {
+	border-left: 3px solid;
+	border-left-color: #2ca0df5e;}
+.block-children [level="8"] {
+	border-left: 3px solid;
+	border-left-color: #9f8af061;}
+.block-children [level="9"] {
+	border-left: 3px solid;
+	border-left-color: #f15bf74f;}
+/* ==== fix spacing - TWEAK VALUES ! ===*/
+.ls-block { margin:-2px 0px -5px -1px !important; padding: 5px 1px !important;}
+
+
+/* css kanban block view for child blocks by cannibalox v20210220 */
+/* use: inline tag #kanban, #kanban-small or #kanban-wXXX    */
+/* try:  #kanban-w200,#kanban-w300, #kanban-w400             */
+/* until now only settings in kanban work. kanban-wXXX does not work */
+
+div[data-refs-self*="kanban"] > .block-children {
+	display: inline-flex;
+	position: relative;
+	overflow-x: auto;
+	overflow-y: hidden;
+	margin: 10px;
+	}
+div[data-refs-self*="kanban"] >.block-children > div {
+	display: inline-block;
+	width: 400px;
+	padding-right: 5px;
+	}
+
+/* #kanbansmall : smaller font with hover zoom */
+div[data-refs-self*="kanban-small"] > .block-children .block-content {
+	font-size: 11px;
+	font-weight: 300;
+}
+div[data-refs-self*="kanban-small"] > .block-children .block-content:hover {
+	font-size: 14px !important;
+	min-width: 100px;
+	margin: 0 10px;
+}
+/* #kanban-w[100-300] : force width of the columns */
+div[data-refs-self*="kanban-w100"] > .block-children .block-content {
+	width:100px;
+}
+div[data-refs-self*="kanban-w200"] > .block-children .block-content {
+	width:200px;
+}
+div[data-refs-self*="kanban-w300"] > .block-children .block-content {
+	width:300px;
+}
+div[data-refs-self*="kanban-w300"] > .block-children {
+	border: 1px solid var(--ls-block-bullet-border-color);
+	padding: 10px 0;
+}
+div[data-refs-self*="kanban-w400"] > .block-children .block-content {
+	width:380px; 
+}
+div[data-refs-self*="kanban-w600"] > .block-children .block-content {
+	width:600px;
+}
+
+/* columns view css mod by cannibalox v0.2  20210131 */
+/* SETTINGS: adjust width of the page and cards below*/
+
+	:root {
+		--main-container-width : 1000px; /* for the position of the main points in logseq pages
+		--mod-cards-width: 252px;
+		}  
+
+/* ============================= */
+/* ==== columns view layout ==== */
+/* ====================-======== */
+
+	.cp__sidebar-main-content {
+			padding: 2rem 1.5rem;
+			margin: 0;
+			max-width: var(--main-container-width);
+		}
+	.foldable-title {
+		max-width: var(--main-container-width);
+		}   
+	div[data-refs-self*=".v-kanban-wide"] >.block-children > div 
+		display:inline-block;
+		width: var(--main-container-width); 
+		position:absolute;
+		top: 10px;
+		vertical-align: top;
+		margin-bottom: 20px;
+	}
+	.embed-block .ls-block {
+		display: inline;
+	}
+
+/* ============================== */
+/* === tweak layout margins  ==== */
+
+	.blocks-container,.doc-mode {
+		margin: 0px 0;
+	}	
