@@ -6,7 +6,7 @@
 				- [[✅ Positionierung von Körpern um die drei Raumachsen mittels drei rotatorische Bewegungen]]
 			- [[W5_Material wird im linearelastischen Bereich deformiert]]
 				- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
-		- [[W4_Formkomplexität]]
+		- [[W4_Formkomplexität]] #.v-numlist
 			- Gedruckte Gewinde
 				- [[✅ Formänderung durch Volumenänderungen von Druckkammern]]
 			- Festkörpergelenke
@@ -15,7 +15,7 @@
 				- [[✅ Bewegung in zwei diskreten Zustände,Bistabiles System]]
 				- [[✅ Erwärmen von Oberflächen,Strukturen]]
 -
-## [[W2_Quelle]] #.v-numlist #.v-kanban-wide
+## [[W2_Quelle]]
 	-
 	  <mark class='blue'>Poisson Induced Bending Actuator for Soft Robotic System</mark>
 		- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
