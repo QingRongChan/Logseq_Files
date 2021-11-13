@@ -4,7 +4,7 @@
 
 	:root {
 		--main-container-width : 1800px; 
-		--mod-cards-width: 1800px;
+		--mod-cards-width: 1000px;
 		}  
 
 /* ============================= */
@@ -46,7 +46,7 @@ div[level="2"]{
 		border: 5px solid black;
 		border-radius: 6px;
 		background-color: var(--ls-tertiary-background-color);
-		margin: 0px 15px 15px 0px; /* SPACE BETWEEN CARDS */
+		margin: 0px 1500px 1500px 0px; /* SPACE BETWEEN CARDS */
 		padding: 1em 0.5em;  /* CARDS BOARDER */
 	}
 	.block-children .ls-block {
