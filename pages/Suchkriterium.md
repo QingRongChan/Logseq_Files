@@ -1,4 +1,3 @@
-- Usage of .v-kanban,  .v-numlist
 -
   <mark class='grey'>[[W2_Genutzte Freiheiten der AM]]</mark>
 	- [[W3_Konstruktive Freiheiten]]
