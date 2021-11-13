@@ -1,5 +1,3 @@
-tags:: p-cards
-
 ## [[W2_Genutzte Freiheiten der AM]]
 	- [[W3_Konstruktive Freiheiten]]
 		- [[W4_Materialkomplexität]] #.v-numlist
