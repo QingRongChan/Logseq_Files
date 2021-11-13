@@ -1,5 +1,7 @@
-## [[W2_Genutzte Freiheiten der AM]]
+- ## [[W2_Genutzte Freiheiten der AM]]
+  collapsed:: true
 	- ### [[W3_Konstruktive Freiheiten]]
+	  collapsed:: true
 		- [[W4_Materialkomplexität]]
 			- [[W5_Kombination von unterschiedlichen Materialien , Hart-Weich Kombination]]
 				- [[✅ Formänderung durch Volumenänderungen von Druckkammern]]
@@ -15,7 +17,8 @@
 				- [[✅ Bewegung in zwei diskreten Zustände,Bistabiles System]]
 				- [[✅ Erwärmen von Oberflächen,Strukturen]]
 -
-## [[W2_Quelle]]
+- ## [[W2_Quelle]]
+  collapsed:: true
 	-
 	  <mark class='blue'>Poisson Induced Bending Actuator for Soft Robotic System</mark>
 		- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
@@ -55,13 +58,17 @@
 		- [[✅ Erwärmen von Oberflächen,Strukturen]]
 	-
 	  <mark class='blue'>Characterization of Electrical Heating Performance of CFDM 3D-Printed Graphene/Polylactic Acid (PLA) Horseshoe Pattern with Different 3D Printing Directions</mark>
+	  collapsed:: true
 		- [[@Plasticity]]
 		- [[✅ Wirkprinzipien 2]]
-## [[W2_Fertigungsverfahren]]
+- ## [[W2_Fertigungsverfahren]]
+  collapsed:: true
 	-
 	  <mark class='blue'>FDM möglich</mark>
+	  collapsed:: true
 		- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
-## [[W2_Technology Readiness Level]]
+- ## [[W2_Technology Readiness Level]]
+  collapsed:: true
 	-
 	  <mark class='blue'>[[TL1]]</mark>
 		- [[✅ Wirkprinzipien 2]]
