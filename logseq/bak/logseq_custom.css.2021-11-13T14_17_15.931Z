@@ -123,33 +123,12 @@ div[data-refs-self*="kanban-w600"] > .block-children .block-content {
 			font-weight: 400;
 			font-size: 14px;
 	}
-
 /* === restyle properties ===*/
 	.properties{
 			font-family: Cairo;
 			font-weight: 300;
 			font-size: 14px;
 			text-transform: none
-
-/* === hide top bullet in embed-block ===*/
-	.embed-block .flex-1.flex-row {
-		margin-left: -15px; }  /* tweak value to move the top bullet */
-	.embed-block .block-children {
-		border-left : 0px; }  /* hide the first indentation line */
-	.embed-block .flex-1.flex-row .bullet-container.cursor .bullet {
-		background-color: transparent} /* embled-block top bullet */
-	.embed-block .block-children .flex-1.flex-row .bullet-container.cursor .bullet {
-		background-color: var(--ls-block-bullet-color)} /* embled-block children bullets */
-
-
-/* === hide top bullet in embed-block ===*/
-#main-content-container [data-page-tags*="v-doc"] div[level="2"] > .flex-1.flex-row hr {
-		margin: 0px 0px 0px -4px;
-}
-#main-content-container [data-page-tags*="v-doc"] div[level="2"] > .flex-1.flex-row .table-wrapper{
-		margin: -20px 0px 0px -4px;
-}
-
 
 
 
