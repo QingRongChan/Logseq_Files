@@ -18,7 +18,6 @@
 				- [[✅ Erwärmen von Oberflächen,Strukturen]]
 -
 - ## [[W2_Quelle]]
-  collapsed:: true
 	-
 	  <mark class='blue'>Poisson Induced Bending Actuator for Soft Robotic System</mark>
 		- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
@@ -61,14 +60,20 @@
 	  collapsed:: true
 		- [[@Plasticity]]
 		- [[✅ Wirkprinzipien 2]]
-- ## [[W2_Fertigungsverfahren]]
-  collapsed:: true
+-
+-
+-
+## [[W2_Fertigungsverfahren]]
+collapsed:: true
 	-
 	  <mark class='blue'>FDM möglich</mark>
 	  collapsed:: true
 		- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
-- ## [[W2_Technology Readiness Level]]
-  collapsed:: true
+-
+-
+-
+## [[W2_Technology Readiness Level]]
+collapsed:: true
 	-
 	  <mark class='blue'>[[TL1]]</mark>
 		- [[✅ Wirkprinzipien 2]]
