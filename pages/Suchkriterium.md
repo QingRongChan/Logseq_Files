@@ -1,7 +1,7 @@
 -
   <mark class='grey'>[[W2_Genutzte Freiheiten der AM]]</mark>
 	- [[W3_Konstruktive Freiheiten]]
-		- [[W4_Materialkomplexität]] #.v-kanban-wide
+		- [[W4_Materialkomplexität]] #kanban
 			-
 			  <mark class='blue'>[[W5_Kombination von unterschiedlichen Materialien , Hart-Weich Kombination]]</mark>
 				- [[✅ Formänderung durch Volumenänderungen von Druckkammern]]
@@ -9,7 +9,7 @@
 			-
 			  <mark class='blue'>[[W5_Material wird im linearelastischen Bereich deformiert]]</mark>
 				- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
-		- [[W4_Formkomplexität]] #.v-kanban-wide
+		- [[W4_Formkomplexität]] #kanban
 			-
 			  <mark class='blue'>Gedruckte Gewinde</mark>
 				- [[✅ Formänderung durch Volumenänderungen von Druckkammern]]
