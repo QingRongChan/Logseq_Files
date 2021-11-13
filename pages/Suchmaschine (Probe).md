@@ -1,6 +1,3 @@
-Property::
-tags:: #p-cards.c2
-
 - Take 1 =Basic Query== Status: ⭕
 	- Option 1-> Datomic
 	  collapsed:: true
