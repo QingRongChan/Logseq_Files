@@ -104,27 +104,6 @@ div[data-refs-self*="kanban-w600"] > .block-children .block-content {
 	border-left-width: 2px;
 }
 
-	/* === auto headify top level bullets from logseq-topbullet_as_heading.css===*/
-	/* link: https://github.com/cannibalox/logseq-dark-hpx/blob/master/logseq-topbullet_as_heading.css */
-
-#main-content-container [data-page-tags*="v-doc"] div[level="2"]  {
-	margin: 1em 0 1.3em 0;
-}
-#main-content-container [data-page-tags*="v-doc"] div[level="2"] > .flex-1.flex-row .block-content, div[level="2"]:not(.pre-block) > .flex-1.flex-row .editor-wrapper textarea {
-			font-family: Barlow;
-			font-weight: 600;
-			font-size: 24px;
-			margin: -0.3em 0 0.3em 0em;
-			text-transform: uppercase; /* capitalize */
-	} 
-
-	div[id="journals"] div[level="2"] > .flex-1.flex-row {
-			font-family: Cairo;
-			font-weight: 400;
-			font-size: 14px;
-	}
-
-
 
 /* ======================================================== */
 /* PAGE VIEW MOD : CARDS - css by cannibalox v0.3 20210220  */
