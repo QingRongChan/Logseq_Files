@@ -1,6 +1,7 @@
 - {{embed [[Suchfunktion : Einträge und Format]]}}
 -
 -
+  background-color:: #49767b
   1. Zu suchende Wirkprinzipien hat folgende Eigenschaften: #.v-numlist
 	- Genutzte Freiheiten der AM -> Konstruktive Freiheiten -> Materialkomplexität -> Kombination von unterschiedlichen Materialien, Hart-weich Kombination
 	- Genutzte Freiheiten der AM -> Konstruktive Freiheiten -> Formkomplexität -> Gedruckte Gewinde
