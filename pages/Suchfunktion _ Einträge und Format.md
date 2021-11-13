@@ -4,8 +4,10 @@ title:: Suchfunktion : Einträge und Format
 	-
 	  <ins>W2-Ebene</ins>
 		- genutzte-freiheiten-der-am
+		  collapsed:: true
 			- [[W3_Konstruktive Freiheiten]]
 		- trl
+		  collapsed:: true
 			- [[TL1]]
 			- [[TL2]]
 			- [[TL3]]
@@ -17,6 +19,7 @@ title:: Suchfunktion : Einträge und Format
 			- [[TL9]]
 			- [[TL10]]
 		- quelle
+		  collapsed:: true
 			- Poisson Induced Bending Actuator for Soft Robotic System
 			- Compliant Morphing Wing
 			- A New Concept Compliant Platform with Spatial Mobility and Remote Actuation
