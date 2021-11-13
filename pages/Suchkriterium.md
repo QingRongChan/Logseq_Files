@@ -46,12 +46,15 @@
 		- [Thingsverse](https://www.thingiverse.com/thing:1487390)
 		- [[✅ Änderung der Bauteilform durch seitwärtige Bewegung]]
 	-
+	  <mark class='blue'>3D printing of twisting and rotational bistable structures with tuning elements</mark>
 		- [[✅ Bewegung in zwei diskreten Zustände,Bistabiles System]]
-	- Characterizing the Electrical Properties of Anisotropic, 3D-Printed Conductive Sheets for Sensor Applications
+	-
+	  <mark class='blue'>Characterizing the Electrical Properties of Anisotropic, 3D-Printed Conductive Sheets for Sensor Applications</mark>
 		- [[✅ Erwärmen von Oberflächen,Strukturen]]
-	- Design of additively manufactured heat-generating structures
+	-
+	  <mark class='blue'>Design of additively manufactured heat-generating structures</mark>
 		- [[✅ Erwärmen von Oberflächen,Strukturen]]
-	- Characterization of Electrical Heating Performance of CFDM 3D-Printed Graphene/Polylactic Acid (PLA) Horseshoe Pattern with Different 3D Printing Directions
+	- /blue
 		- [[✅ Erwärmen von Oberflächen,Strukturen]]
 	- TestLiterature
 		- [[@Plasticity]]
