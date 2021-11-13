@@ -1,5 +1,5 @@
 ## [[W2_Genutzte Freiheiten der AM]]
-	- [[W3_Konstruktive Freiheiten]]
+	- ### [[W3_Konstruktive Freiheiten]]
 		- [[W4_Materialkomplexität]] #.v-numlist
 			-
 			  <mark class='blue'>[[W5_Kombination von unterschiedlichen Materialien , Hart-Weich Kombination]]</mark>
