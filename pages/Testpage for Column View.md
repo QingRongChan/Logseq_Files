@@ -1,25 +1,16 @@
 - [[W2_Quelle]]
-  collapsed:: true
 	-
 	  <mark class='blue'>Poisson Induced Bending Actuator for Soft Robotic System</mark>
-	  collapsed:: true
-		- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
 	-
 	  <mark class='blue'>Compliant Morphing Wing</mark>
-	  collapsed:: true
-		- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
 	-
 	  <mark class='blue'>A New Concept Compliant Platform with Spatial Mobility and Remote Actuation</mark>
-	  collapsed:: true
-		- [[✅ Positionierung von Körpern um die drei Raumachsen mittels drei rotatorische Bewegungen]]
 	-
 	  <mark class='blue'>Auxetic Structure</mark>
-	  collapsed:: true
 		- [Auxetic Structure](https://www.youtube.com/watch?v=XP5Fk-lHvK0&ab_channel=MITMediaLab)
 		- [[✅ Bewegungsablauf in einer Ebene kopieren]]
 	-
-	  <mark class='blue'>Auxetic Structure 2</mark> 
-	  collapsed:: true
+	  <mark class='blue'>Auxetic Structure 2</mark>
 		- [Auxetic Structure 2](https://www.thingiverse.com/thing:881094)
 		- [[✅ Oberflächenformänderungen unter Krafteinleitung von einer panarenstrukturn zu einer Teilkugelform]]
 	-
