@@ -54,9 +54,11 @@
 	-
 	  <mark class='blue'>Design of additively manufactured heat-generating structures</mark>
 		- [[✅ Erwärmen von Oberflächen,Strukturen]]
-	- /blue
+	-
+	  <mark class='blue'>Characterization of Electrical Heating Performance of CFDM 3D-Printed Graphene/Polylactic Acid (PLA) Horseshoe Pattern with Different 3D Printing Directions</mark>
 		- [[✅ Erwärmen von Oberflächen,Strukturen]]
-	- TestLiterature
+	-
+	  <mark class='blue'>Characterization of Electrical Heating Performance of CFDM 3D-Printed Graphene/Polylactic Acid (PLA) Horseshoe Pattern with Different 3D Printing Directions</mark>
 		- [[@Plasticity]]
 		- [[✅ Wirkprinzipien 2]]
 -
