@@ -11,7 +11,7 @@
 /* ====================-======== */
 
 	.cp__sidebar-main-content {
-			padding: 1rem 1.5rem;
+			padding: 20rem 1.5rem;
 			margin: 0;
 			max-width: var(--main-container-width);
 		}

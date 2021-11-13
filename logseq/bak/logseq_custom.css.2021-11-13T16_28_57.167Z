@@ -11,8 +11,8 @@
 /* ====================-======== */
 
 	.cp__sidebar-main-content {
-			padding: 1rem 1.5rem;
-			margin: 0;
+			padding: 2rem 1.5rem;
+			margin: 100;
 			max-width: var(--main-container-width);
 		}
 	.foldable-title {
