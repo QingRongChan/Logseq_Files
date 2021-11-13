@@ -1,6 +1,7 @@
-tags:: v-doc
+tags:: p-cards
 
-- [[W2_Genutzte Freiheiten der AM]]
+-
+  <mark class='grey'>[[W2_Genutzte Freiheiten der AM]]</mark>
 	- [[W3_Konstruktive Freiheiten]]
 		- [[W4_Materialkomplexität]] #.v-numlist #kanban
 			-
