@@ -1,3 +1,4 @@
+-
 # [[W2_Genutzte Freiheiten der AM]]
 	- ## [[W3_Konstruktive Freiheiten]] #.v-kanban-wide
 		- ### [[W4_Materialkomplexität]]
