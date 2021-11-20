@@ -1,6 +1,3 @@
-Property::
-Tags:: #p-cards
-
 - Take 1 =Basic Query== Status: ⭕
   collapsed:: true
 	- Option 1-> Datomic
@@ -55,6 +52,7 @@ Tags:: #p-cards
 	  query-table:: false
 	- {{query (and (property konstruktive-freiheiten W4_Materialkomplexität ) (property materialkomplexität W5_Material wird im linearelastischen Bereich deformiert) (property fertigungsverfahren FDM möglich) (property trl TL4) )}}
 - Take 4 ==Query Regel== Status: ✅
+  collapsed:: true
 	- Derzeitige properties der jeweiligen Seite der Wirkprinzipien
 	  collapsed:: true
 		- genutzte-freiheiten-der-am
