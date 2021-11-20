@@ -1,4 +1,4 @@
-Tags:: p-cards.c2
+Tags:: p-cards
 
 -
   <mark class='red'>Auxetic Structure</mark>
