@@ -1,4 +1,4 @@
-Tags:: p-cards.c4
+Tags:: p-cards.c2
 
 -
   <mark class='red'>Auxetic Structure</mark>
@@ -6,5 +6,4 @@ Tags:: p-cards.c4
 	- Testpoint 2
 	- Testpoint 3
 	- Testpoint 4
--
 -
