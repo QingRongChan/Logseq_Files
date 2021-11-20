@@ -7,3 +7,6 @@ Tags:: p-cards.c2
 	- Testpoint 3
 	- Testpoint 4
 -
+-
+- test lock
+	- this is a row to be locked
