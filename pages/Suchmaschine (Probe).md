@@ -1,8 +1,6 @@
 Property::
 Tags:: #p-cards
 
--
--
 - Take 1 =Basic Query== Status: ⭕
   collapsed:: true
 	- Option 1-> Datomic
