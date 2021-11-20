@@ -1014,7 +1014,7 @@ ul li::marker {
 
 :root {
 	--cards-container-width : 200vw; /* sets the width of the page */
-	--max-cards-per-row: 8; /* default to 5 cards if nothing is specified */
+	--max-cards-per-row: 5; /* default to 5 cards if nothing is specified */
 	--mod-cards-width: calc((var(--cards-container-width) - 15%) / var(--max-cards-per-row));
 }
 
