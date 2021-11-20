@@ -64,6 +64,7 @@
 		- starten mit dem Befehl "/query"
 		- "{{query and( (property key value) (property key value) (property key value) (property key value) )}}"
 	- Regel für die Eingabe in Query Funktion
+	  collapsed:: true
 		- Eingegebene Property's Schlüssel muss dem dargestellten Schlüssel entsprechen
 		- Link zu einer Seite muss nicht als Link in Query Funktion eingegeben werden
 		- Es gibt keine Grenze für die Anzahl der Property keys, die eingegeben werden können
