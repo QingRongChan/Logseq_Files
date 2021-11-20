@@ -1,1 +1,1 @@
-- Suchkriteri
+- Wo sind die Suchkriterien für die Wirj
