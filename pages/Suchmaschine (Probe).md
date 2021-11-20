@@ -53,6 +53,7 @@
 	- {{query (and (property konstruktive-freiheiten W4_Materialkomplexität ) (property materialkomplexität W5_Material wird im linearelastischen Bereich deformiert) (property fertigungsverfahren FDM möglich) (property trl TL4) )}}
 - Take 4 ==Query Regel== Status: ✅
 	- Derzeitige properties der jeweiligen Seite der Wirkprinzipien
+	  collapsed:: true
 		- genutzte-freiheiten-der-am
 		- konstruktive-freiheiten
 		- materialkomplexität
@@ -61,6 +62,7 @@
 		- quelle
 		- fertigungsverfahren
 	- Format für Query-Funktion
+	  collapsed:: true
 		- starten mit dem Befehl "/query"
 		- "{{query and( (property key value) (property key value) (property key value) (property key value) )}}"
 	- Regel für die Eingabe in Query Funktion
