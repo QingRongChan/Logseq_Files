@@ -1082,7 +1082,7 @@ cp__sidebar-main-layout {
 
 	/* define cards size with .cX*/
 	[data-page-tags*="p-cards.c2"] div[level="2"]:not(.pre-block) {
-		--mod-cards-width: calc((var(--cards-container-width) - 15%) / 2);
+		width: calc((var(--cards-container-width) - 15%) / 2);
 	}
 	[data-page-tags*="p-cards.c3"] div[level="2"]:not(.pre-block) {
 		width: calc((var(--cards-container-width) - 15%) / 3);
