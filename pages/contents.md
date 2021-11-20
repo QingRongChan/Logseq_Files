@@ -1,2 +1,3 @@
 - Wo sind die Suchkriterien für die Wirkprinzipien?
-- Wo ist das
+- Wo finde ich das Format für die Suchfunktion
+-
