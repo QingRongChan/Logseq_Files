@@ -1,3 +1,5 @@
 - Wo sind die Suchkriterien für die Wirkprinzipien?
+	- [[Suchkriterium]]
 - Wo finde ich das Format für die Suchfunktion?
-- Weitere Fragen -> und weitere Verlinkungen zu den
+	- [[Suche]]
+- Weitere Fragen -> und weitere Verlinkungen zu den zugehörigen Seiten
