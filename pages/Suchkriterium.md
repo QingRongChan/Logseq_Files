@@ -1,12 +1,14 @@
-- ## [[W2_Genutzte Freiheiten der AM]]
-	- ### [[W3_Konstruktive Freiheiten]]
-		- [[W4_Materialkomplexität]]
+# [[W2_Genutzte Freiheiten der AM]]
+	- ## [[W3_Konstruktive Freiheiten]] #.v-kanban-wide
+		- ### [[W4_Materialkomplexität]]
+		  collapsed:: true
 			- [[W5_Kombination von unterschiedlichen Materialien , Hart-Weich Kombination]]
 				- [[✅ Formänderung durch Volumenänderungen von Druckkammern]]
 				- [[✅ Positionierung von Körpern um die drei Raumachsen mittels drei rotatorische Bewegungen]]
 			- [[W5_Material wird im linearelastischen Bereich deformiert]]
 				- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
-		- [[W4_Formkomplexität]] #.v-numlist
+		- ### [[W4_Formkomplexität]]
+		  collapsed:: true
 			- Gedruckte Gewinde
 				- [[✅ Formänderung durch Volumenänderungen von Druckkammern]]
 			- Festkörpergelenke
@@ -14,95 +16,68 @@
 			- Deformation in linearelastischen Bereich
 				- [[✅ Bewegung in zwei diskreten Zustände,Bistabiles System]]
 				- [[✅ Erwärmen von Oberflächen,Strukturen]]
-## [[W2_Quelle]]
-	-
-	  <mark class='blue'>Poisson Induced Bending Actuator for Soft Robotic System</mark>
-	  collapsed:: true
+		- ### Konstruktive Freiheit 1
+		- ### Konstruktive Freiheit 2
+		- ### Konstruktive Freiheit 3
+- # [[W2_Quelle]] #.v-kanban-wide
+	- Poisson Induced Bending Actuator for Soft Robotic System
 		- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
-	-
-	  <mark class='blue'>Compliant Morphing Wing</mark>
-	  collapsed:: true
+	- Compliant Morphing Wing
 		- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
-	-
-	  <mark class='blue'>A New Concept Compliant Platform with Spatial Mobility and Remote Actuation</mark>
-	  collapsed:: true
+	- A New Concept Compliant Platform with Spatial Mobility and Remote Actuation
 		- [[✅ Positionierung von Körpern um die drei Raumachsen mittels drei rotatorische Bewegungen]]
-	-
-	  <mark class='blue'>Auxetic Structure</mark>
-	  collapsed:: true
+	- Auxetic Structure
 		- [Auxetic Structure](https://www.youtube.com/watch?v=XP5Fk-lHvK0&ab_channel=MITMediaLab)
 		- [[✅ Bewegungsablauf in einer Ebene kopieren]]
-	-
-	  <mark class='blue'>Auxetic Structure 2</mark> 
-	  collapsed:: true
+	- Auxetic Structure 2
 		- [Auxetic Structure 2](https://www.thingiverse.com/thing:881094)
 		- [[✅ Oberflächenformänderungen unter Krafteinleitung von einer panarenstrukturn zu einer Teilkugelform]]
-	-
-	  <mark class='blue'>Festo Didactic</mark> 
-	  collapsed:: true
+	- Festo Didactic
 		- [Festo-Didactic](https://www.festo-didactic.com/de-de/lernsysteme/technik-fuer-allgemeinbildende-schulen/fin-ray-bastelbogen.htm?fbid=ZGUuZGUuNTQ0LjEzLjE4LjE0MDMuODUyOA)
 		- [[✅ Änderung der Bauteilform durch seitwärtige Bewegung]]
-	-
-	  <mark class='blue'>Thingsverse</mark>
-	  collapsed:: true
+	- Thingsverse
 		- [Thingsverse](https://www.thingiverse.com/thing:1487390)
 		- [[✅ Änderung der Bauteilform durch seitwärtige Bewegung]]
-	-
-	  <mark class='blue'>3D printing of twisting and rotational bistable structures with tuning elements</mark>
-	  collapsed:: true
+	- 3D printing of twisting and rotational bistable structures with tuning elements
 		- [[✅ Bewegung in zwei diskreten Zustände,Bistabiles System]]
-	-
-	  <mark class='blue'>Characterizing the Electrical Properties of Anisotropic, 3D-Printed Conductive Sheets for Sensor Applications</mark>
+	- Characterizing the Electrical Properties of Anisotropic, 3D-Printed Conductive Sheets for Sensor Applications
 	  collapsed:: true
 		- [[✅ Erwärmen von Oberflächen,Strukturen]]
-	-
-	  <mark class='blue'>Design of additively manufactured heat-generating structures</mark>
+	- Design of additively manufactured heat-generating structures
 	  collapsed:: true
 		- [[✅ Erwärmen von Oberflächen,Strukturen]]
-	-
-	  <mark class='blue'>Characterization of Electrical Heating Performance of CFDM 3D-Printed Graphene/Polylactic Acid (PLA) Horseshoe Pattern with Different 3D Printing Directions</mark>
+	- Characterization of Electrical Heating Performance of CFDM 3D-Printed Graphene/Polylactic Acid (PLA) Horseshoe Pattern with Different 3D Printing Directions
 	  collapsed:: true
 		- [[✅ Erwärmen von Oberflächen,Strukturen]]
-	-
-	  <mark class='blue'>Characterization of Electrical Heating Performance of CFDM 3D-Printed Graphene/Polylactic Acid (PLA) Horseshoe Pattern with Different 3D Printing Directions</mark>
+	- Characterization of Electrical Heating Performance of CFDM 3D-Printed Graphene/Polylactic Acid (PLA) Horseshoe Pattern with Different 3D Printing Directions
 	  collapsed:: true
 		- [[@Plasticity]]
 		- [[✅ Wirkprinzipien 2]]
-## [[W2_Fertigungsverfahren]]
-collapsed:: true
-	-
-	  <mark class='blue'>FDM möglich</mark>
-	  collapsed:: true
+- # [[W2_Fertigungsverfahren]] #.v-kanban-wide
+	- FDM möglich
 		- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
-- ## [[W2_Technology Readiness Level]]
-	-
-	  <mark class='blue'>[[TL1]]</mark>
+	- FV 4
+	- FV 3
+	- FV 2
+	- FV 1
+# [[W2_Technology Readiness Level]] #.v-kanban-wide
+	- [[TL1]]
 		- [[✅ Wirkprinzipien 2]]
-	-
-	  <mark class='blue'>[[TL2]]</mark>
+	- [[TL2]]
 		- [[✅ Kraft speichern]]
-	-
-	  <mark class='blue'>[[TL3]]</mark>
+	- [[TL3]]
 		- [[✅ Formänderung durch Volumenänderungen von Druckkammern]]
-	-
-	  <mark class='blue'>[[TL4]]</mark>
+	- [[TL4]]
 		- [[✅ Ausgleichsbewegung(compliant mechanismus)]]
-	-
-	  <mark class='blue'>[[TL5]]</mark>
+	- [[TL5]]
 		- [[✅ Positionierung von Körpern um die drei Raumachsen mittels drei rotatorische Bewegungen]]
-	-
-	  <mark class='blue'>[[TL6]]</mark>
+	- [[TL6]]
 		- [[✅ Bewegungsablauf in einer Ebene kopieren]]
-	-
-	  <mark class='blue'>[[TL7]] </mark>
+	- [[TL7]]
 		- [[✅ Oberflächenformänderungen unter Krafteinleitung von einer panarenstrukturn zu einer Teilkugelform]]
-	-
-	  <mark class='blue'>[[TL8]]</mark>
+	- [[TL8]]
 		- [[✅ Änderung der Bauteilform durch seitwärtige Bewegung]]
-	-
-	  <mark class='blue'>[[TL9]]</mark>
-	-
-	  <mark class='blue'>[[TL10]]</mark>
+	- [[TL9]]
+	- [[TL10]]
 		- [[✅ Bewegung in zwei diskreten Zustände,Bistabiles System]]
 		- [[✅ Erwärmen von Oberflächen,Strukturen]]
--

@@ -970,34 +970,64 @@ ul li::marker {
 /* =========================================================== */
 
 /* =========================================================== */
-/* =========================================================== */    
-/*= =highlight current path by cannnibalox v20210220 =*/ 
-/*====== option: (:hover) to (:focus-whithin) =======*/
+/* =========================================================== */
+/* ======== columns view css mod by cannibalox v0.2  20210131 ==========*/
+/* SETTINGS: adjust width of the page and cards below*/
 
-.ls-block .bullet{
-    background-color:#dd0707;
-}
+	:root {
+		--main-container-width : 1800px; 
+		--mod-cards-width: 252px;
+		}  
 
-.ls-block:not(:hover) .bullet{
-    background-color:var(--ls-block-bullet-color);
-}
+/* ============================= */
+/* ==== columns view layout ==== */
+/* ====================-======== */
 
-/*--- highlight indentation line - remove if not useful ---*/
-/*---- tweak left: and top: offset to match yout theme ----*/
-.blocks-container > div:not(:first-child) .ls-block:hover > div:first-child .bullet:before{
-    content : "└─";
-	color:#6e2222;
-	display: inline-block;
-	left: -20px;
-	top: -10px;
-	width: 30px;
-	position: relative;
-}
-.ls-block > .block-children:hover {
-	border-left-color:#6e2222;
-	border-left-width: 2px;
-}
+	.cp__sidebar-main-content {
+			padding: 2rem 1.5rem;
+			margin: 0;
+			max-width: var(--main-container-width);
+		}
+	.foldable-title {
+		max-width: var(--main-container-width);
+		}   
+	div[level="2"]{
+		display:inline-block;
+		width: var(--mod-cards-width); 
+		position:absolute;
+		top: 10px;
+		vertical-align: top;
+		margin-bottom: 20px;
+	}
+	.embed-block .ls-block {
+		display: inline;
+	}
+
+/* ============================== */
+/* === tweak layout margins  ==== */
+	
+.blocks-container,.doc-mode {
+		margin: 0px 0;
+	}
+
+/* ============================== */
+/* ======== cards look ========== */
+	
+div[level="2"]{
+		box-shadow: 2px 2px 3px #0000003b;
+		border: 1px solid black;
+		border-radius: 6px;
+		background-color: var(--ls-tertiary-background-color);
+		margin: 0px 15px 15px 0px; /* SPACE BETWEEN CARDS */
+		padding: 1em 0.5em;  /* CARDS BOARDER */
+	}
+	.block-children .ls-block {
+		border: 0px solid var(--ls-secondary-text-color);
+		margin: 0px;
+	}
+	.ls-block {
+		margin: 0px 12px 0px -2px;
+		padding: 5px 8px 0px 0px;
+	}
 /* =========================================================== */
 /* =========================================================== */
-
-
