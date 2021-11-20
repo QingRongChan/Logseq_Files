@@ -9,7 +9,7 @@
 	- Suchfunktion:
 	  collapsed:: true
 	- {{query (and (property konstruktive-freiheiten [[W4_Materialkomplexität]]) (property materialkomplexität [[W5_Kombination von unterschiedlichen Materialien , Hart-Weich Kombination]]) (property formkomplexität Gedruckte Gewinde) (property trl TL3) )}}
-	  query-table:: false
+	  query-table:: true
 	  query-sort-by:: block
 	  query-sort-desc:: true
 -
