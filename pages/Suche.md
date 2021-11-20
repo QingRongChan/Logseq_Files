@@ -19,7 +19,6 @@
 	- Fertigungsverfahren -> FDM möglich
 	- Technological Readiness Level TRL von 4
 	- Suchfunktion:
-	  collapsed:: true
 	- {{query (and (property konstruktive-freiheiten W4_Materialkomplexität ) (property materialkomplexität W5_Material wird im linearelastischen Bereich deformiert) (property fertigungsverfahren FDM möglich) (property trl TL4) )}}
 	  query-table:: false
 -
