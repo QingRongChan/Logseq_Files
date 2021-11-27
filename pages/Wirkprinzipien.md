@@ -35,6 +35,9 @@ tags:: p-cards.c2
   Blablabla
   #+END_QUOTE
 - #+BEGIN_TIP
-  
+  baefjkb
   #+END_TIP
+- #+BEGIN_IMPORTANT
+  ajevbfk
+  #+END_IMPORTANT
 -
