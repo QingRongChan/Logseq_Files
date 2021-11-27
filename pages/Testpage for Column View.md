@@ -14,4 +14,5 @@ Tags:: p-cards.c2
 - locked row will be saved onto the clipboard after unlocking
 - From the clipboard:  this is a row to be locked
 -
+- Footnote function
 -
