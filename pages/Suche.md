@@ -23,7 +23,7 @@
 	  query-table:: false
 -
 -
-  3. [^1] Zu suchende Wirkprinzipien hat folgende Eigenschaften:
+  3. [^1] : Zu suchende Wirkprinzipien hat folgende Eigenschaften:
 	- Genutzte Freiheiten der AM -> Konstruktive Freiheiten -> Materialkomplexität -> Material wird im linearelastischen Bereich deformiert
 	- Fertigungsverfahren -> FDM möglich
 	- Suchfunktion:
