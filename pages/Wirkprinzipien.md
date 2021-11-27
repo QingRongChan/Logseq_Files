@@ -1,5 +1,7 @@
 title:: Wirkprinzipien
 tags:: p-cards.c5
+animal:: Cat
+building:: House
 
 - Wirkprinzipien
 	- **[[W1_Wirkprinzipien 2]]**
@@ -31,4 +33,5 @@ tags:: p-cards.c5
 	  Genutzte_Freiheiten_Der_AM::
 	  Weiterführende_Literature::
 -
+- The [%animal] is in the [%building]
 -
