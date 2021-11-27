@@ -1,9 +1,9 @@
 title:: Suchfunktion : Einträge und Format
 
 - ==Liste der möglichen Suchkriterien für die Suchfunktion==
+  collapsed:: true
 	-
 	  <ins>W2-Ebene</ins>
-	  collapsed:: true
 		- genutzte-freiheiten-der-am
 		  collapsed:: true
 			- [[W3_Konstruktive Freiheiten]]
@@ -51,6 +51,7 @@ title:: Suchfunktion : Einträge und Format
 			- Festkörpergelenke
 			- Deformation in linearelastischen Bereich
 - ==Suchfunktion : Format==
+  collapsed:: true
 	- Starten mit dem Befehl "/query"
 	- Auf Enter drücken -> "{{query }}"
 	- Im Klammer, hinter "query" -> zu suchende Wirkprinzipien mithilfe von Suchkriterien finden
