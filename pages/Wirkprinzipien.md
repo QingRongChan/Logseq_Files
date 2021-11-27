@@ -34,7 +34,7 @@ tags:: p-cards.c2
 - #+BEGIN_QUOTE
   Blablabla
   #+END_QUOTE
-- ``` blablabnla
+- #+BEGIN_TIP
   
-  ```
+  #+END_TIP
 -
