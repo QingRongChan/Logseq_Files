@@ -23,3 +23,5 @@
 	  query-table:: false
 -
 -
+  3. Zu suchende Wirkprinzipien hat folgende Eigenschaften:
+	-
