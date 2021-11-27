@@ -31,4 +31,7 @@ tags:: p-cards.c2
 	  Genutzte_Freiheiten_Der_AM::
 	  Weiterführende_Literature::
 -
+- #+BEGIN_QUOTE
+  Blablabla
+  #+END_QUOTE
 -
