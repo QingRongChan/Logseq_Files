@@ -24,4 +24,7 @@
 -
 -
   3. Zu suchende Wirkprinzipien hat folgende Eigenschaften:
-	-
+	- Genutzte Freiheiten der AM -> Konstruktive Freiheiten -> Materialkomplexität -> Material wird im linearelastischen Bereich deformiert
+	- Fertigungsverfahren -> FDM möglich
+	- Suchfunktion:
+		-
