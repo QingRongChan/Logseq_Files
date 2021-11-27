@@ -27,4 +27,5 @@
 	- Genutzte Freiheiten der AM -> Konstruktive Freiheiten -> Materialkomplexität -> Material wird im linearelastischen Bereich deformiert
 	- Fertigungsverfahren -> FDM möglich
 	- Suchfunktion:
-		- {{query and(Property konstruktive-freiheiten W4_Materialkomplexität)(Property Fertigungsverfahren)}}
+		- {{query (and(property konstruktive-freiheiten W4_Materialkomplexität)(property Fertigungsverfahren FDM möglich))}}
+		-
