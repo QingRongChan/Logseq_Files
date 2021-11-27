@@ -15,4 +15,5 @@ Tags:: p-cards.c2
 - From the clipboard:  this is a row to be locked
 -
 - Footnote function
+- This is a test row for footnote[^1].
 -
